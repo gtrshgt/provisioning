@@ -41,31 +41,31 @@ CHECKPOINT_MODELS=(
 LORA_MODELS=(
     "https://civitai.com/api/download/models/118945" # epicRealHelper
     "https://civitai.com/api/download/models/62833"  # moreDetail
-    "https://civitai.com/api/download/models/74288"  # clothesLiftSelfie
-    "https://civitai.com/api/download/models/156648" # pantsDown
-    "https://civitai.com/api/download/models/7870"   # shirtlift
-    "https://civitai.com/api/download/models/163466" # ahegao
-    "https://civitai.com/api/download/models/104483" #tapeGag
-    "https://civitai.com/api/download/models/177370" # tornClothes
-    "https://civitai.com/api/download/models/332520" # selfie
-    "https://civitai.com/api/download/models/44041" # penisOnFace
-    "https://civitai.com/api/download/models/9521" # coveringEyes
-    "https://civitai.com/api/download/models/129737" # coverCrotchBreasts
-    "https://civitai.com/api/download/models/159408" # cumB1
-    "https://civitai.com/api/download/models/347907" # selfWedgie
-    "https://civitai.com/api/download/models/466597" # doggySexSideview
-    "https://civitai.com/api/download/models/11192" # imminentPenetration
-    "https://civitai.com/api/download/models/349283"  # messyRoom
-    "https://civitai.com/api/download/models/183382" # missionaryPose
-    "https://civitai.com/api/download/models/42995" # FullNelson
-    "https://civitai.com/api/download/models/46493" # pillory
-    "https://civitai.com/api/download/models/183382" # missionaryVaginal
-    "https://civitai.com/api/download/models/197444" # doggyanal
-    "https://civitai.com/api/download/models/99602" # godpussy1
-    "https://civitai.com/api/download/models/101249" # deepthroat
-    "https://civitai.com/api/download/models/22912" # assGrab
-    "https://civitai.com/api/download/models/155980" # swordswallowing
-    "https://civitai.com/models/22123/in-public-photographers" # publicphotographers
+    #"https://civitai.com/api/download/models/74288"  # clothesLiftSelfie
+    #"https://civitai.com/api/download/models/156648" # pantsDown
+    #"https://civitai.com/api/download/models/7870"   # shirtlift
+    #"https://civitai.com/api/download/models/163466" # ahegao
+    #"https://civitai.com/api/download/models/104483" #tapeGag
+    #"https://civitai.com/api/download/models/177370" # tornClothes
+    #"https://civitai.com/api/download/models/332520" # selfie
+    #"https://civitai.com/api/download/models/44041" # penisOnFace
+    #"https://civitai.com/api/download/models/9521" # coveringEyes
+    #"https://civitai.com/api/download/models/129737" # coverCrotchBreasts
+    #"https://civitai.com/api/download/models/159408" # cumB1
+    #"https://civitai.com/api/download/models/347907" # selfWedgie
+    #"https://civitai.com/api/download/models/466597" # doggySexSideview
+    #"https://civitai.com/api/download/models/11192" # imminentPenetration
+    #"https://civitai.com/api/download/models/349283"  # messyRoom
+    #"https://civitai.com/api/download/models/183382" # missionaryPose
+    #"https://civitai.com/api/download/models/42995" # FullNelson
+    #"https://civitai.com/api/download/models/46493" # pillory
+    #"https://civitai.com/api/download/models/183382" # missionaryVaginal
+    #"https://civitai.com/api/download/models/197444" # doggyanal
+    #"https://civitai.com/api/download/models/99602" # godpussy1
+    #"https://civitai.com/api/download/models/101249" # deepthroat
+    #"https://civitai.com/api/download/models/22912" # assGrab
+    #"https://civitai.com/api/download/models/155980" # swordswallowing
+    #"https://civitai.com/models/22123/in-public-photographers" # publicphotographers
 )
 
 VAE_MODELS=(
