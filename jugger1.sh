@@ -31,7 +31,7 @@ EXTENSIONS=(
 )
 
 CHECKPOINT_MODELS=(
-    "https://civitai.com/api/download/models/471120" # JuggernautXL
+    "https://civitai.com/api/download/models/471120?token=${TOKEN}" # JuggernautXL
     #"https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt"
     #"https://huggingface.co/stabilityai/stable-diffusion-2-1/resolve/main/v2-1_768-ema-pruned.ckpt"
     #"https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors"
@@ -39,33 +39,27 @@ CHECKPOINT_MODELS=(
 )
 
 LORA_MODELS=(
-    "https://civitai.com/api/download/models/118945" # epicRealHelper
-    "https://civitai.com/api/download/models/62833"  # moreDetail
-    #"https://civitai.com/api/download/models/74288"  # clothesLiftSelfie
-    #"https://civitai.com/api/download/models/156648" # pantsDown
-    #"https://civitai.com/api/download/models/7870"   # shirtlift
-    #"https://civitai.com/api/download/models/163466" # ahegao
-    #"https://civitai.com/api/download/models/104483" #tapeGag
-    #"https://civitai.com/api/download/models/177370" # tornClothes
-    #"https://civitai.com/api/download/models/332520" # selfie
-    #"https://civitai.com/api/download/models/44041" # penisOnFace
-    #"https://civitai.com/api/download/models/9521" # coveringEyes
-    #"https://civitai.com/api/download/models/129737" # coverCrotchBreasts
-    #"https://civitai.com/api/download/models/159408" # cumB1
-    #"https://civitai.com/api/download/models/347907" # selfWedgie
-    #"https://civitai.com/api/download/models/466597" # doggySexSideview
-    #"https://civitai.com/api/download/models/11192" # imminentPenetration
-    #"https://civitai.com/api/download/models/349283"  # messyRoom
-    #"https://civitai.com/api/download/models/183382" # missionaryPose
-    #"https://civitai.com/api/download/models/42995" # FullNelson
-    #"https://civitai.com/api/download/models/46493" # pillory
-    #"https://civitai.com/api/download/models/183382" # missionaryVaginal
-    #"https://civitai.com/api/download/models/197444" # doggyanal
-    #"https://civitai.com/api/download/models/99602" # godpussy1
-    #"https://civitai.com/api/download/models/101249" # deepthroat
-    #"https://civitai.com/api/download/models/22912" # assGrab
-    #"https://civitai.com/api/download/models/155980" # swordswallowing
-    #"https://civitai.com/models/22123/in-public-photographers" # publicphotographers
+    #LoraXL
+    "https://civitai.com/api/download/models/123732?token=${TOKEN}" # ZoomSlider(SD1.5)
+    "https://civitai.com/api/download/models/360150?token=${TOKEN}" # cameltoePussy
+    "https://civitai.com/api/download/models/135867?token=${TOKEN}" # DetailTweakerXL
+    "https://civitai.com/api/download/models/160240?token=${TOKEN}" # AllInOneXL
+    "https://civitai.com/api/download/models/445135?token=${TOKEN}" # flatChested
+    "https://civitai.com/api/download/models/244808?type=Model&format=SafeTensor&token=${TOKEN}" # AllDisneyPrincessXL
+    "https://civitai.com/api/download/models/142000?token=${TOKEN}" # schoolBuilding
+    "https://civitai.com/api/download/models/470402?token=${TOKEN}" # straddleSexSideView
+    "https://civitai.com/api/download/models/128461?token=${TOKEN}" # perfectEyesXLsafetensors
+    "https://civitai.com/api/download/models/127928?token=${TOKEN}" # finenude
+    "https://civitai.com/api/download/models/142611?token=${TOKEN}" # skirtliftXL
+    "https://civitai.com/api/download/models/138950?token=${TOKEN}" # shirtliftXL
+    "https://civitai.com/api/download/models/140555?token=${TOKEN}" # missionaryXL
+    "https://civitai.com/api/download/models/137178?token=${TOKEN}" # doggystyleXL
+    "https://civitai.com/api/download/models/150991?token=${TOKEN}" # bondageXL
+    "https://civitai.com/api/download/models/247083?token=${TOKEN}" # slimwomanXL
+    "https://civitai.com/api/download/models/394127?token=${TOKEN}" # realCumXL
+    "https://civitai.com/api/download/models/360315?token=${TOKEN}" # ringGagXL
+    "https://civitai.com/api/download/models/310948?token=${TOKEN}" # IdropMyPanty
+    "https://civitai.com/api/download/models/131364?type=Model&format=SafeTensor&token=${TOKEN}" # ahegaoXL
 )
 
 VAE_MODELS=(
