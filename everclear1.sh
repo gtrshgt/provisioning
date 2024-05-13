@@ -31,23 +31,21 @@ EXTENSIONS=(
 )
 
 CHECKPOINT_MODELS=(
-    "https://civitai.com/api/download/models/399640" # EverclearPNYbyZovya
-    #"https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt"
-    #"https://huggingface.co/stabilityai/stable-diffusion-2-1/resolve/main/v2-1_768-ema-pruned.ckpt"
+    "https://civitai.com/api/download/models/399640?token=${TOKEN}" # EverclearPNYbyZovya
     #"https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors"
     #"https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors"
 )
 
 LORA_MODELS=(
-    "https://civitai.com/api/download/models/118945" # epicRealHelper
+    "https://civitai.com/api/download/models/118945?token=${TOKEN}" # epicRealHelper
     #
-    "https://civitai.com/api/download/models/396822" # PonyXL_SmallRaphtalia
-    "https://civitai.com/api/download/models/416403" # AobaSuzukazeXL
-    "https://civitai.com/api/download/models/413128" # footOnHead
-    "https://civitai.com/api/download/models/437203" # Eromanga
-    "https://civitai.com/api/download/models/436219" # IncaseStyle
-    "https://civitai.com/api/download/models/416689" # UncensoredPonyXL
-    "https://civitai.com/api/download/models/448977" # ageSliderPonyXL
+    "https://civitai.com/api/download/models/396822?token=${TOKEN}" # PonyXL_SmallRaphtalia
+    "https://civitai.com/api/download/models/416403?token=${TOKEN}" # AobaSuzukazeXL
+    "https://civitai.com/api/download/models/413128?token=${TOKEN}" # footOnHead
+    "https://civitai.com/api/download/models/437203?token=${TOKEN}" # Eromanga
+    "https://civitai.com/api/download/models/436219?token=${TOKEN}" # IncaseStyle
+    "https://civitai.com/api/download/models/416689?token=${TOKEN}" # UncensoredPonyXL
+    "https://civitai.com/api/download/models/448977?token=${TOKEN}" # ageSliderPonyXL
 )
 
 VAE_MODELS=(
