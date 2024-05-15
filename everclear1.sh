@@ -32,7 +32,7 @@ EXTENSIONS=(
 
 CHECKPOINT_MODELS=(
     "https://civitai.com/api/download/models/399640?token=${TOKEN}" # EverclearPNYbyZovya
-    "https://civitai.com/api/download/models/465251?token=${TOKEN}" # PonyRealism
+    #"https://civitai.com/api/download/models/465251?token=${TOKEN}" # PonyRealism
     "https://civitai.com/api/download/models/303498?token=${TOKEN}" # softfantasy_realmagic
     #"https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors"
     #"https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors"
@@ -48,6 +48,7 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/416689?token=${TOKEN}" # uncensoredPonyXL
     "https://civitai.com/api/download/models/448977?token=${TOKEN}" # ageSliderPonyXL
     ## SDXL
+    "https://civitai.com/api/download/models/249521?token=${TOKEN}" # textSDXL
     "https://civitai.com/api/download/models/135867?token=${TOKEN}" # detailTweakerXL   
     "https://civitai.com/api/download/models/127928?token=${TOKEN}" # finenude 
     "https://civitai.com/api/download/models/445135?token=${TOKEN}" # flatChested
