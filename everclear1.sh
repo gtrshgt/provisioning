@@ -66,6 +66,12 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/118945?token=${TOKEN}" # epicRealHelper
 )
 
+EMBEDDINGS=(
+    "https://civitai.com/api/download/models/105067" # detail++ SkinAndHair
+    "https://civitai.com/api/download/models/482268?type=Model&format=PickleTensor" # Pony PDXL , PhotoReal
+    "https://civitai.com/api/download/models/482268?type=Negative&format=Other" # Pony PDXL Negative , PhotoReal
+)
+
 VAE_MODELS=(
     #"https://huggingface.co/stabilityai/sd-vae-ft-ema-original/resolve/main/vae-ft-ema-560000-ema-pruned.safetensors"
     #"https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.safetensors"
@@ -115,6 +121,9 @@ function provisioning_start() {
     provisioning_get_models \
         "${WORKSPACE}/storage/stable_diffusion/models/lora" \
         "${LORA_MODELS[@]}"
+    provisioning_get_models \
+        "${WORKSPACE}/storage/stable_diffusion/embeddings" \
+        "${EMBEDDINGS[@]}"
     provisioning_get_models \
         "${WORKSPACE}/storage/stable_diffusion/models/controlnet" \
         "${CONTROLNET_MODELS[@]}"
