@@ -67,9 +67,12 @@ LORA_MODELS=(
 )
 
 EMBEDDINGS=(
+    "https://civitai.com/api/download/models/106020"  # Detail ++ OverallDetail
     "https://civitai.com/api/download/models/105067" # detail++ SkinAndHair
     "https://civitai.com/api/download/models/482268?type=Model&format=PickleTensor" # Pony PDXL , PhotoReal
     "https://civitai.com/api/download/models/482268?type=Negative&format=Other" # Pony PDXL Negative , PhotoReal
+    "https://civitai.com/api/download/models/95256" # EpiCRealism - embedding
+    "https://civitai.com/api/download/models/95263" # EpiCRealism Negative - embedding
 )
 
 VAE_MODELS=(
