@@ -48,6 +48,7 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/416689?token=${TOKEN}" # uncensoredPonyXL
     "https://civitai.com/api/download/models/448977?token=${TOKEN}" # ageSliderPonyXL
     ## SDXL
+    "https://civitai.com/api/download/models/273996?token=${TOKEN}" # DPO_followPrompt
     "https://civitai.com/api/download/models/249521?token=${TOKEN}" # textSDXL
     "https://civitai.com/api/download/models/135867?token=${TOKEN}" # detailTweakerXL   
     "https://civitai.com/api/download/models/127928?token=${TOKEN}" # finenude 
