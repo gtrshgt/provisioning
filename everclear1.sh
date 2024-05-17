@@ -33,7 +33,7 @@ EXTENSIONS=(
 CHECKPOINT_MODELS=(
     "https://civitai.com/api/download/models/399640?token=${TOKEN}" # EverclearPNYbyZovya
     #"https://civitai.com/api/download/models/465251?token=${TOKEN}" # PonyRealism
-    "https://civitai.com/api/download/models/303498?token=${TOKEN}" # softfantasy_realmagic
+    #"https://civitai.com/api/download/models/303498?token=${TOKEN}" # softfantasy_realmagic
     #"https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors"
     #"https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors"
 )
@@ -61,7 +61,7 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/150991?token=${TOKEN}" # bondageXL
     "https://civitai.com/api/download/models/142000?token=${TOKEN}" # schoolBuilding
     ## SD1.5
-    "https://civitai.com/api/download/models/123732" # zoomSlider
+    #--"https://civitai.com/api/download/models/123732" # zoomSlider
     "https://civitai.com/api/download/models/155980?type=Model&format=SafeTensor" # swordswallowing
     "https://civitai.com/api/download/models/43171" # tiedtobed
     "https://civitai.com/api/download/models/118945?token=${TOKEN}" # epicRealHelper
