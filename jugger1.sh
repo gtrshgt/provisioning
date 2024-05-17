@@ -32,34 +32,51 @@ EXTENSIONS=(
 
 CHECKPOINT_MODELS=(
     "https://civitai.com/api/download/models/471120?token=${TOKEN}" # JuggernautXL
-    #"https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt"
-    #"https://huggingface.co/stabilityai/stable-diffusion-2-1/resolve/main/v2-1_768-ema-pruned.ckpt"
+    "https://civitai.com/api/download/models/303498?token=${TOKEN}" # softfantasy_realmagic
     #"https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors"
     #"https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors"
 )
 
 LORA_MODELS=(
-    #LoraXL
-    "https://civitai.com/api/download/models/123732?token=${TOKEN}" # ZoomSlider(SD1.5)
-    "https://civitai.com/api/download/models/360150?token=${TOKEN}" # cameltoePussy
-    "https://civitai.com/api/download/models/135867?token=${TOKEN}" # DetailTweakerXL
-    "https://civitai.com/api/download/models/160240?token=${TOKEN}" # AllInOneXL
+    ## PonyXL
+    "https://civitai.com/api/download/models/413128?token=${TOKEN}" # footOnHead
+    "https://civitai.com/api/download/models/437203?token=${TOKEN}" # Eromanga
+    "https://civitai.com/api/download/models/448977?token=${TOKEN}" # ageSliderPonyXL
+    ## SDXL
+    "https://civitai.com/api/download/models/273996?token=${TOKEN}" # DPO_followPrompt
+    "https://civitai.com/api/download/models/249521?token=${TOKEN}" # textSDXL
+    "https://civitai.com/api/download/models/135867?token=${TOKEN}" # detailTweakerXL   
+    "https://civitai.com/api/download/models/127928?token=${TOKEN}" # finenude 
     "https://civitai.com/api/download/models/445135?token=${TOKEN}" # flatChested
+    "https://civitai.com/api/download/models/247083?token=${TOKEN}" # slimwomanXL
+    "https://civitai.com/api/download/models/131364?type=Model&format=SafeTensor&token=${TOKEN}" # AhegaoXL
     "https://civitai.com/api/download/models/244808?type=Model&format=SafeTensor&token=${TOKEN}" # AllDisneyPrincessXL
+    "https://civitai.com/api/download/models/394127?token=${TOKEN}" # realCumXL
+    "https://civitai.com/api/download/models/360315?token=${TOKEN}" # ringGagXL
+    "https://civitai.com/api/download/models/150991?token=${TOKEN}" # bondageXL
     "https://civitai.com/api/download/models/142000?token=${TOKEN}" # schoolBuilding
+    "https://civitai.com/api/download/models/360150?token=${TOKEN}" # cameltoePussy
+    "https://civitai.com/api/download/models/160240?token=${TOKEN}" # allInOneXL
+    "https://civitai.com/api/download/models/445135?token=${TOKEN}" # flatChested
     "https://civitai.com/api/download/models/470402?token=${TOKEN}" # straddleSexSideView
     "https://civitai.com/api/download/models/128461?token=${TOKEN}" # perfectEyesXLsafetensors
-    "https://civitai.com/api/download/models/127928?token=${TOKEN}" # finenude
     "https://civitai.com/api/download/models/142611?token=${TOKEN}" # skirtliftXL
     "https://civitai.com/api/download/models/138950?token=${TOKEN}" # shirtliftXL
     "https://civitai.com/api/download/models/140555?token=${TOKEN}" # missionaryXL
     "https://civitai.com/api/download/models/137178?token=${TOKEN}" # doggystyleXL
-    "https://civitai.com/api/download/models/150991?token=${TOKEN}" # bondageXL
-    "https://civitai.com/api/download/models/247083?token=${TOKEN}" # slimwomanXL
-    "https://civitai.com/api/download/models/394127?token=${TOKEN}" # realCumXL
-    "https://civitai.com/api/download/models/360315?token=${TOKEN}" # ringGagXL
     "https://civitai.com/api/download/models/310948?token=${TOKEN}" # IdropMyPanty
-    "https://civitai.com/api/download/models/131364?type=Model&format=SafeTensor&token=${TOKEN}" # ahegaoXL
+    ## SD1.5
+    "https://civitai.com/api/download/models/123732" # zoomSlider
+    "https://civitai.com/api/download/models/155980?type=Model&format=SafeTensor" # swordswallowing
+    "https://civitai.com/api/download/models/43171" # tiedtobed
+    "https://civitai.com/api/download/models/118945?token=${TOKEN}" # epicRealHelper
+)
+
+EMBEDDINGS=(
+    "https://civitai.com/api/download/models/106020"  # Detail ++ OverallDetail
+    #"https://civitai.com/api/download/models/105067" # detail++ SkinAndHair
+    "https://civitai.com/api/download/models/95256" # EpiCRealism - embedding
+    "https://civitai.com/api/download/models/95263" # EpiCRealism Negative - embedding
 )
 
 VAE_MODELS=(
