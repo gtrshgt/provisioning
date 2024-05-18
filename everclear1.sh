@@ -31,7 +31,8 @@ EXTENSIONS=(
 )
 
 CHECKPOINT_MODELS=(
-    "https://civitai.com/api/download/models/399640?token=${TOKEN}" # EverclearPNYbyZovya
+    "https://civitai.com/api/download/models/511677?token=${TOKEN}" # Everclear V3
+    #"https://civitai.com/api/download/models/399640?token=${TOKEN}" # EverclearPNYbyZovya
     "https://civitai.com/api/download/models/303498?token=${TOKEN}" # softfantasy_realmagic
     "https://civitai.com/api/download/models/465251?token=${TOKEN}" # PonyRealism
     #"https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors"
