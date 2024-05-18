@@ -31,8 +31,9 @@ EXTENSIONS=(
 )
 
 CHECKPOINT_MODELS=(
-    "https://civitai.com/api/download/models/471120?token=${TOKEN}" # JuggernautXL
     "https://civitai.com/api/download/models/303498?token=${TOKEN}" # softfantasy_realmagic
+    "https://civitai.com/api/download/models/262227?token=${TOKEN}" # Kawaii Realistic European 
+    ###"https://civitai.com/api/download/models/471120?token=${TOKEN}" # JuggernautXL
     #"https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors"
     #"https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors"
 )
