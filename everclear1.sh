@@ -44,6 +44,7 @@ CHECKPOINT_MODELS=(
 
 LORA_MODELS=(
     ## PonyXL
+    "https://civitai.com/api/download/models/182404?token=${TOKEN}" # LabiaplastyXL 
     #-"https://civitai.com/api/download/models/396822?token=${TOKEN}" # PonyXL_SmallRaphtalia
     #-"https://civitai.com/api/download/models/416403?token=${TOKEN}" # AobaSuzukazeXL
     "https://civitai.com/api/download/models/413128?token=${TOKEN}" # footOnHead
