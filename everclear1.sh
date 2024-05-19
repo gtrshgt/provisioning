@@ -32,50 +32,48 @@ EXTENSIONS=(
 
 CHECKPOINT_MODELS=(
     "https://civitai.com/api/download/models/511677?token=${TOKEN}" # Everclear V3
-    #"https://civitai.com/api/download/models/399640?token=${TOKEN}" # EverclearPNYbyZovya
-    "https://civitai.com/api/download/models/465251?token=${TOKEN}" # PonyRealism
-    "https://civitai.com/models/365041?modelVersionId=515456?token=${TOKEN}" # RealPony real_anime, jap
+    ##"https://civitai.com/api/download/models/399640?token=${TOKEN}" # EverclearPNYbyZovya
+    #-"https://civitai.com/api/download/models/465251?token=${TOKEN}" # PonyRealism
+    #-"https://civitai.com/models/365041?modelVersionId=515456?token=${TOKEN}" # RealPony real_anime, jap
     #
     "https://civitai.com/api/download/models/303498?token=${TOKEN}" # softfantasy_realmagic
     "https://civitai.com/api/download/models/489217?token=${TOKEN}" # epiCRealism XL
-    #"https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors"
-    #"https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors"
 )
 
 LORA_MODELS=(
     ## PonyXL
-    "https://civitai.com/api/download/models/396822?token=${TOKEN}" # PonyXL_SmallRaphtalia
-    "https://civitai.com/api/download/models/416403?token=${TOKEN}" # AobaSuzukazeXL
+    #-"https://civitai.com/api/download/models/396822?token=${TOKEN}" # PonyXL_SmallRaphtalia
+    #-"https://civitai.com/api/download/models/416403?token=${TOKEN}" # AobaSuzukazeXL
     "https://civitai.com/api/download/models/413128?token=${TOKEN}" # footOnHead
-    "https://civitai.com/api/download/models/437203?token=${TOKEN}" # Eromanga
-    "https://civitai.com/api/download/models/436219?token=${TOKEN}" # IncaseStyle
-    "https://civitai.com/api/download/models/416689?token=${TOKEN}" # uncensoredPonyXL
+    #-"https://civitai.com/api/download/models/437203?token=${TOKEN}" # Eromanga
+    #-"https://civitai.com/api/download/models/436219?token=${TOKEN}" # IncaseStyle
+    #-"https://civitai.com/api/download/models/416689?token=${TOKEN}" # uncensoredPonyXL
     "https://civitai.com/api/download/models/448977?token=${TOKEN}" # ageSliderPonyXL
     ## SDXL
     "https://civitai.com/api/download/models/273996?token=${TOKEN}" # DPO_followPrompt
-    "https://civitai.com/api/download/models/249521?token=${TOKEN}" # textSDXL
+    #-"https://civitai.com/api/download/models/249521?token=${TOKEN}" # textSDXL
     "https://civitai.com/api/download/models/135867?token=${TOKEN}" # detailTweakerXL   
-    "https://civitai.com/api/download/models/127928?token=${TOKEN}" # finenude 
-    "https://civitai.com/api/download/models/445135?token=${TOKEN}" # flatChested
-    "https://civitai.com/api/download/models/247083?token=${TOKEN}" # slimwomanXL
+    #-"https://civitai.com/api/download/models/127928?token=${TOKEN}" # finenude 
+    #-"https://civitai.com/api/download/models/445135?token=${TOKEN}" # flatChested
+    #-"https://civitai.com/api/download/models/247083?token=${TOKEN}" # slimwomanXL
     "https://civitai.com/api/download/models/131364?type=Model&format=SafeTensor&token=${TOKEN}" # AhegaoXL
-    "https://civitai.com/api/download/models/244808?type=Model&format=SafeTensor&token=${TOKEN}" # AllDisneyPrincessXL
+    #-"https://civitai.com/api/download/models/244808?type=Model&format=SafeTensor&token=${TOKEN}" # AllDisneyPrincessXL
     "https://civitai.com/api/download/models/394127?token=${TOKEN}" # realCumXL
     "https://civitai.com/api/download/models/360315?token=${TOKEN}" # ringGagXL
     "https://civitai.com/api/download/models/150991?token=${TOKEN}" # bondageXL
-    "https://civitai.com/api/download/models/142000?token=${TOKEN}" # schoolBuilding
+    #-"https://civitai.com/api/download/models/142000?token=${TOKEN}" # schoolBuilding
     ## SD1.5
-    #--"https://civitai.com/api/download/models/123732" # zoomSlider
-    "https://civitai.com/api/download/models/155980?type=Model&format=SafeTensor" # swordswallowing
-    "https://civitai.com/api/download/models/43171" # tiedtobed
-    "https://civitai.com/api/download/models/118945?token=${TOKEN}" # epicRealHelper
+    #----"https://civitai.com/api/download/models/123732" # zoomSlider
+    #-"https://civitai.com/api/download/models/155980?type=Model&format=SafeTensor" # swordswallowing
+    #-"https://civitai.com/api/download/models/43171" # tiedtobed
+    #-"https://civitai.com/api/download/models/118945?token=${TOKEN}" # epicRealHelper
 )
 
 EMBEDDINGS=(
     "https://civitai.com/api/download/models/106020"  # Detail ++ OverallDetail
-    "https://civitai.com/api/download/models/105067" # detail++ SkinAndHair
-    "https://civitai.com/api/download/models/482268?type=Model&format=PickleTensor" # Pony PDXL , PhotoReal
-    "https://civitai.com/api/download/models/482268?type=Negative&format=Other" # Pony PDXL Negative , PhotoReal
+    #"https://civitai.com/api/download/models/105067" # detail++ SkinAndHair
+    #"https://civitai.com/api/download/models/482268?type=Model&format=PickleTensor" # Pony PDXL , PhotoReal
+    #"https://civitai.com/api/download/models/482268?type=Negative&format=Other" # Pony PDXL Negative , PhotoReal
     "https://civitai.com/api/download/models/95256" # EpiCRealism - embedding
     "https://civitai.com/api/download/models/95263" # EpiCRealism Negative - embedding
 )
@@ -101,11 +99,11 @@ CONTROLNET_MODELS=(
     #"https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/control_openpose-fp16.safetensors"
     #"https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/control_scribble-fp16.safetensors"
     #"https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/control_seg-fp16.safetensors"
-    "https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_canny-fp16.safetensors"
-    "https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_color-fp16.safetensors"
-    "https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_depth-fp16.safetensors"
+    #-"https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_canny-fp16.safetensors"
+    #-"https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_color-fp16.safetensors"
+    #-"https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_depth-fp16.safetensors"
     #"https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_keypose-fp16.safetensors"
-    "https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_openpose-fp16.safetensors"
+    #-"https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_openpose-fp16.safetensors"
     #"https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_seg-fp16.safetensors"
     #"https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_sketch-fp16.safetensors"
     #"https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_style-fp16.safetensors"
