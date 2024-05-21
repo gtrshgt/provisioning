@@ -28,6 +28,7 @@ EXTENSIONS=(
     "https://github.com/Coyote-A/ultimate-upscale-for-automatic1111"
     #"https://github.com/fkunn1326/openpose-editor"
     #"https://github.com/Gourieff/sd-webui-reactor"
+    "https://github.com/Haoming02/sd-webui-vectorscope-cc"
 )
 
 CHECKPOINT_MODELS=(
@@ -39,7 +40,7 @@ CHECKPOINT_MODELS=(
     #-"https://civitai.com/models/365041?modelVersionId=515456?token=${TOKEN}" # RealPony real_anime, jap
     #
     "https://civitai.com/api/download/models/303498?token=${TOKEN}" # softfantasy_realmagic
-    "https://civitai.com/api/download/models/489217?token=${TOKEN}" # epiCRealism XL
+    #"https://civitai.com/api/download/models/489217?token=${TOKEN}" # epiCRealism XL
 )
 
 LORA_MODELS=(
