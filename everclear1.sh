@@ -18,7 +18,7 @@ PIP_PACKAGES=(
   )
 
 EXTENSIONS=(
-    "https://github.com/Mikubill/sd-webui-controlnet"
+    #-"https://github.com/Mikubill/sd-webui-controlnet"
     "https://github.com/d8ahazard/sd_dreambooth_extension"
     #"https://github.com/deforum-art/sd-webui-deforum"
     "https://github.com/adieyal/sd-dynamic-prompts"
@@ -30,6 +30,7 @@ EXTENSIONS=(
     #"https://github.com/Gourieff/sd-webui-reactor"
     "https://github.com/Haoming02/sd-webui-vectorscope-cc"
     "https://github.com/pharmapsychotic/clip-interrogator-ext"
+    "https://github.com/KohakuBlueleaf/z-a1111-sd-webui-dtg" #DanTagGen to upsample prompts
 )
 
 CHECKPOINT_MODELS=(
