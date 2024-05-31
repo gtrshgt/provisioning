@@ -30,6 +30,7 @@ EXTENSIONS=(
     #"https://github.com/Gourieff/sd-webui-reactor"
     "https://github.com/Haoming02/sd-webui-vectorscope-cc"
     "https://github.com/pharmapsychotic/clip-interrogator-ext"
+    "https://github.com/Physton/sd-webui-prompt-all-in-one"
     "https://github.com/KohakuBlueleaf/z-a1111-sd-webui-dtg" #DanTagGen to upsample prompts
 )
 
