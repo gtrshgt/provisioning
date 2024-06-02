@@ -27,6 +27,7 @@ EXTENSIONS=(
     #"https://github.com/hako-mikan/sd-webui-regional-prompter"
     "https://github.com/Coyote-A/ultimate-upscale-for-automatic1111"
     #"https://github.com/fkunn1326/openpose-editor"
+    #"https://github.com/hnmr293/posex"
     #"https://github.com/Gourieff/sd-webui-reactor"
     "https://github.com/Haoming02/sd-webui-vectorscope-cc"
     "https://github.com/pharmapsychotic/clip-interrogator-ext"
