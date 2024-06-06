@@ -28,7 +28,7 @@ EXTENSIONS=(
     "https://github.com/adieyal/sd-dynamic-prompts"
     #"https://github.com/ototadana/sd-face-editor"
     "https://github.com/AlUlkesh/stable-diffusion-webui-images-browser"
-    "https://github.com/zanllp/sd-webui-infinite-image-browsing"
+    #"https://github.com/zanllp/sd-webui-infinite-image-browsing"
     #"https://github.com/hako-mikan/sd-webui-regional-prompter"
     "https://github.com/Coyote-A/ultimate-upscale-for-automatic1111"
     #"https://github.com/Gourieff/sd-webui-reactor"
@@ -41,10 +41,11 @@ EXTENSIONS=(
 )
 
 CHECKPOINT_MODELS=(
-    "https://civitai.com/api/download/models/511677?token=${TOKEN}" # Everclear V3
+    #"https://civitai.com/api/download/models/511677?token=${TOKEN}" # Everclear V3
     #-"https://civitai.com/api/download/models/441236?token=${TOKEN}" # 7th anime XL-Pony A
     #"https://civitai.com/models/413979?modelVersionId=526408?token=${TOKEN}" #Raemora XL 
     #-"https://civitai.com/api/download/models/465251?token=${TOKEN}" # PonyRealism
+    "https://civitai.com/api/download/models/534642?token=${TOKEN}" # PonyRealism v2.1 VAE
     #-"https://civitai.com/models/365041?modelVersionId=515456?token=${TOKEN}" # RealPony real_anime, jap
     ##"https://civitai.com/api/download/models/399640?token=${TOKEN}" # EverclearPNYbyZovya
     ##########"https://civitai.com/api/download/models/324524?token=${TOKEN}" # AutismMixXL_confetti
