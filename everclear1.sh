@@ -42,6 +42,7 @@ EXTENSIONS=(
 
 CHECKPOINT_MODELS=(
     "https://civitai.com/api/download/models/511677?token=${TOKEN}" # Everclear V3
+    "https://civitai.com/models/448716/boleromixpony?token=${TOKEN}"
     #-"https://civitai.com/api/download/models/441236?token=${TOKEN}" # 7th anime XL-Pony A
     #"https://civitai.com/models/413979?modelVersionId=526408?token=${TOKEN}" #Raemora XL 
     #-"https://civitai.com/api/download/models/465251?token=${TOKEN}" # PonyRealism
