@@ -41,11 +41,11 @@ EXTENSIONS=(
 )
 
 CHECKPOINT_MODELS=(
-    "https://civitai.com/api/download/models/511677?token=${TOKEN}" # Everclear V3
+    #"https://civitai.com/api/download/models/511677?token=${TOKEN}" # Everclear V3
     #"https://civitai.com/api/download/models/629179?token=${TOKEN}" # boleromix
-    "https://civitai.com/models/476745?modelVersionId=604842${TOKEN}" :  realistic Pony
-    #"https://civitai.com/api/download/models/619549?token=${TOKEN}" DucHaiten Pony-Real
-    #"https://civitai.com/api/download/models/531417?token=${TOKEN}" DucHaiten Pony-XL (no-score)
+    "https://civitai.com/models/476745?modelVersionId=604842?token=${TOKEN}" #  realistic Pony
+    "https://civitai.com/api/download/models/619549?token=${TOKEN}" # DucHaiten Pony-Real
+    #"https://civitai.com/api/download/models/531417?token=${TOKEN}" # DucHaiten Pony-XL (no-score)
     #-"https://civitai.com/api/download/models/441236?token=${TOKEN}" # 7th anime XL-Pony A
     #"https://civitai.com/models/413979?modelVersionId=526408?token=${TOKEN}" #Raemora XL 
     #-"https://civitai.com/api/download/models/465251?token=${TOKEN}" # PonyRealism
