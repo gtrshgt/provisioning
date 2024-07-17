@@ -43,13 +43,14 @@ EXTENSIONS=(
 CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/511677?token=${TOKEN}" # Everclear V3
     #"https://civitai.com/api/download/models/629179?token=${TOKEN}" # boleromix
-    "https://civitai.com/models/476745?modelVersionId=604842?token=${TOKEN}" #  realistic Pony
-    "https://civitai.com/api/download/models/619549?token=${TOKEN}" # DucHaiten Pony-Real
-    #"https://civitai.com/api/download/models/531417?token=${TOKEN}" # DucHaiten Pony-XL (no-score)
+    #"https://civitai.com/models/476745?modelVersionId=604842?token=${TOKEN}" #  realistic Pony, not working?
+    #https://civitai.com/api/download/models/637965 # GoodFit-Pony
+    #"https://civitai.com/api/download/models/619549?token=${TOKEN}" # DucHaiten Pony-Real, checking
+    "https://civitai.com/api/download/models/531417?token=${TOKEN}" # DucHaiten Pony-XL (no-score)
     #-"https://civitai.com/api/download/models/441236?token=${TOKEN}" # 7th anime XL-Pony A
     #"https://civitai.com/models/413979?modelVersionId=526408?token=${TOKEN}" #Raemora XL 
     #-"https://civitai.com/api/download/models/465251?token=${TOKEN}" # PonyRealism
-    #"https://civitai.com/api/download/models/534642?token=${TOKEN}" # PonyRealism v2.1 VAE
+    "https://civitai.com/api/download/models/534642?token=${TOKEN}" # PonyRealism v2.1 VAE
     #-"https://civitai.com/models/365041?modelVersionId=515456?token=${TOKEN}" # RealPony real_anime, jap
     ##"https://civitai.com/api/download/models/399640?token=${TOKEN}" # EverclearPNYbyZovya
     ##########"https://civitai.com/api/download/models/324524?token=${TOKEN}" # AutismMixXL_confetti
