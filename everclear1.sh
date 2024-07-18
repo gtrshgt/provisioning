@@ -55,8 +55,8 @@ CHECKPOINT_MODELS=(
     ##"https://civitai.com/api/download/models/399640?token=${TOKEN}" # EverclearPNYbyZovya
     ##########"https://civitai.com/api/download/models/324524?token=${TOKEN}" # AutismMixXL_confetti
     #
-    "https://civitai.com/api/download/models/646523?token=${TOKEN}" # epiCRealism XL
-    #"https://civitai.com/api/download/models/303498?token=${TOKEN}" # softfantasy_realmagic
+    #"https://civitai.com/api/download/models/646523?token=${TOKEN}" # epiCRealism XL , nogood
+    "https://civitai.com/api/download/models/303498?token=${TOKEN}" # softfantasy_realmagic
     #"https://civitai.com/api/download/models/228559?token=${TOKEN}" # Omnigen
     ###"https://civitai.com/api/download/models/490639?token=${TOKEN}" # iNiverseMixXL
     #"https://civitai.com/api/download/models/489217?token=${TOKEN}" # epiCRealism XL
