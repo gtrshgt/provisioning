@@ -85,8 +85,18 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/131364?type=Model&format=SafeTensor&token=${TOKEN}" # AhegaoXL
     #-"https://civitai.com/api/download/models/244808?type=Model&format=SafeTensor&token=${TOKEN}" # AllDisneyPrincessXL
     "https://civitai.com/api/download/models/394127?token=${TOKEN}" # realCumXL
+    "https://civitai.com/models/543154?modelVersionId=603935?token=${TOKEN}" # Reverse Fellatio !!
     "https://civitai.com/api/download/models/360315?token=${TOKEN}" # ringGagXL
     "https://civitai.com/api/download/models/150991?token=${TOKEN}" # bondageXL
+    "https://civitai.com/models/517826?modelVersionId=601249?token=${TOKEN}" # Slave_Submission_XL pony 
+    "https://civitai.com/models/533300?modelVersionId=592762?token=${TOKEN}" # Pillory (Sex + Pose)
+    "https://civitai.com/models/545236?modelVersionId=606348?token=${TOKEN}" # Testicle Sucking
+    "https://civitai.com/models/559984?modelVersionId=623563?token=${TOKEN}" # Human onahole
+    "https://civitai.com/models/346523?modelVersionId=653338?token=${TOKEN}" # POV Missionary with holding another's wrist 
+    "https://civitai.com/models/539387?modelVersionId=599632?token=${TOKEN}" # Standing Split Sex
+    "https://civitai.com/models/530390?modelVersionId=589398?token=${TOKEN}" # Pov Standing Doggy Style + Missionary (looking up)
+    "https://civitai.com/models/551407?modelVersionId=613577?token=${TOKEN}" # Spooning
+    "https://civitai.com/models/464517?modelVersionId=531389?token=${TOKEN}" # Public Exposure, Embarrassed
     #-"https://civitai.com/api/download/models/142000?token=${TOKEN}" # schoolBuilding
     ## SD1.5
     #----"https://civitai.com/api/download/models/123732" # zoomSlider
