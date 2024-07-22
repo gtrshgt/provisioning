@@ -43,6 +43,7 @@ EXTENSIONS=(
 CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/534642?token=${TOKEN}" # PonyRealism v2.1 VAE
     "https://civitai.com/api/download/models/511677?token=${TOKEN}" # Everclear V3
+    "https://civitai.com/models/443821?modelVersionId=595775?token=${TOKEN}" # CyberRealistic Pony
     #"https://civitai.com/api/download/models/629179?token=${TOKEN}" # boleromix
     #"https://civitai.com/models/476745?modelVersionId=604842?token=${TOKEN}" #  realistic Pony, not working?
     #https://civitai.com/api/download/models/637965 # GoodFit-Pony
@@ -64,7 +65,7 @@ CHECKPOINT_MODELS=(
 
 LORA_MODELS=(
     ## PonyXL
-    "https://civitai.com/api/download/models/520909?token=${TOKEN}" # bodyTypeSlider
+    ##"https://civitai.com/api/download/models/520909?token=${TOKEN}" # bodyTypeSlider
     "https://civitai.com/api/download/models/182404?token=${TOKEN}" # LabiaplastyXL 
     #-"https://civitai.com/api/download/models/396822?token=${TOKEN}" # PonyXL_SmallRaphtalia
     #-"https://civitai.com/api/download/models/416403?token=${TOKEN}" # AobaSuzukazeXL
@@ -74,7 +75,7 @@ LORA_MODELS=(
     #-"https://civitai.com/api/download/models/416689?token=${TOKEN}" # uncensoredPonyXL
     "https://civitai.com/api/download/models/448977?token=${TOKEN}" # ageSliderPonyXL
     ## SDXL
-    "https://civitai.com/api/download/models/288407?token=${TOKEN}" # bodyWriting
+    ##"https://civitai.com/api/download/models/288407?token=${TOKEN}" # bodyWriting
     "https://civitai.com/api/download/models/240274?token=${TOKEN}" # zoomXL
     "https://civitai.com/api/download/models/273996?token=${TOKEN}" # DPO_followPrompt
     #-"https://civitai.com/api/download/models/249521?token=${TOKEN}" # textSDXL
@@ -86,8 +87,8 @@ LORA_MODELS=(
     #-"https://civitai.com/api/download/models/244808?type=Model&format=SafeTensor&token=${TOKEN}" # AllDisneyPrincessXL
     "https://civitai.com/api/download/models/394127?token=${TOKEN}" # realCumXL
     "https://civitai.com/models/543154?modelVersionId=603935?token=${TOKEN}" # Reverse Fellatio !!
-    "https://civitai.com/api/download/models/360315?token=${TOKEN}" # ringGagXL
-    "https://civitai.com/api/download/models/150991?token=${TOKEN}" # bondageXL
+    ##"https://civitai.com/api/download/models/360315?token=${TOKEN}" # ringGagXL
+    ##"https://civitai.com/api/download/models/150991?token=${TOKEN}" # bondageXL
     "https://civitai.com/models/517826?modelVersionId=601249?token=${TOKEN}" # Slave_Submission_XL pony 
     "https://civitai.com/models/533300?modelVersionId=592762?token=${TOKEN}" # Pillory (Sex + Pose)
     "https://civitai.com/models/545236?modelVersionId=606348?token=${TOKEN}" # Testicle Sucking
