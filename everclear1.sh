@@ -40,10 +40,11 @@ EXTENSIONS=(
     "https://github.com/hnmr293/sd-webui-llul"
 )
 
+# has to be api/download, and models/<modelVersionId> !
 CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/534642?token=${TOKEN}" # PonyRealism v2.1 VAE
-    "https://civitai.com/api/download/models/511677?token=${TOKEN}" # Everclear V3
-    ##"https://civitai.com/models/443821?modelVersionId=595775&token=${TOKEN}" # CyberRealistic Pony -> v1-5-pruned-emaonly.safetensors rubish
+    #"https://civitai.com/api/download/models/511677?token=${TOKEN}" # Everclear V3
+    "https://civitai.com/api/download/models/595775?token=${TOKEN}" # CyberRealistic Pony -> v1-5-pruned-emaonly.safetensors rubish
     #"https://civitai.com/api/download/models/629179?token=${TOKEN}" # boleromix
     #"https://civitai.com/models/476745?modelVersionId=604842?token=${TOKEN}" #  realistic Pony, not working?
     #https://civitai.com/api/download/models/637965 # GoodFit-Pony
@@ -56,8 +57,8 @@ CHECKPOINT_MODELS=(
     ##"https://civitai.com/api/download/models/399640?token=${TOKEN}" # EverclearPNYbyZovya
     ##########"https://civitai.com/api/download/models/324524?token=${TOKEN}" # AutismMixXL_confetti
     #
-    "https://civitai.com/models/133005/juggernaut-xl?modelVersionId=471120&token=${TOKEN}" # Juggernaut XL RunDiffiusionHyper
-    "https://civitai.com/models/277058/epicrealism-xl?modelVersionId=646523&token=${TOKEN}" # epiCRealism XL Kiss
+    "https://civitai.com/api/download/models/471120?token=${TOKEN}" # Juggernaut XL RunDiffiusionHyper
+    "https://civitai.com/api/download/models/646523?token=${TOKEN}" # epiCRealism XL Kiss
     #"https://civitai.com/api/download/models/646523?token=${TOKEN}" # epiCRealism XL , nogood
     #"https://civitai.com/api/download/models/303498?token=${TOKEN}" # softfantasy_realmagic YES
     #"https://civitai.com/api/download/models/228559?token=${TOKEN}" # Omnigen
