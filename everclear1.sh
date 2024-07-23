@@ -70,6 +70,7 @@ CHECKPOINT_MODELS=(
 LORA_MODELS=(
     ## PonyXL
     ##"https://civitai.com/api/download/models/520909?token=${TOKEN}" # bodyTypeSlider
+    "https://civitai.com/api/download/models/169536?type=Model&format=SafeTensor?token=${TOKEN}" # TWbabeSDXL 'TWbabeXL01'
     "https://civitai.com/api/download/models/182404?token=${TOKEN}" # LabiaplastyXL 
     "https://civitai.com/api/download/models/232190?type=Model&format=SafeTensor&token=${TOKEN}" # Rear Pussy XL
     #-"https://civitai.com/api/download/models/396822?token=${TOKEN}" # PonyXL_SmallRaphtalia
