@@ -77,6 +77,7 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/651844?type=Model&format=SafeTensor&token=${TOKEN}" # (O.D.O.R) Feet Pony, 'feet' 
     "https://civitai.com/api/download/models/657010?type=Model&format=SafeTensor&token=${TOKEN}" # 'cooperative fellatio, penis, group sex'
     "https://civitai.com/api/download/models/169536?type=Model&format=SafeTensor&token=${TOKEN}" # TWbabeSDXL 'TWbabeXL01'
+    "https://civitai.com/api/download/models/395560?type=Model&format=SafeTensor&token=${TOKEN}" # 'pleasure-face, mild-pleasure/medium-pleasure/intense-pleasure, eyes open/eyes closed'
     "https://civitai.com/api/download/models/375618?type=Model&format=SafeTensor&token=${TOKEN}" # 'facial expression, aroused, pain, crying, scared, flirting, suprised, excited'
     "https://civitai.com/api/download/models/486194?type=Model&format=SafeTensor&token=${TOKEN}" # 'crying style'
     "https://civitai.com/api/download/models/506561?type=Model&format=SafeTensor&token=${TOKEN}" # 'broken expression'
