@@ -78,6 +78,8 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/657010?type=Model&format=SafeTensor&token=${TOKEN}" # 'cooperative fellatio, penis, group sex'
     "https://civitai.com/api/download/models/169536?type=Model&format=SafeTensor&token=${TOKEN}" # TWbabeSDXL 'TWbabeXL01'
     "https://civitai.com/api/download/models/486194?type=Model&format=SafeTensor&token=${TOKEN}" # 'crying style'
+    "https://civitai.com/api/download/models/506561?type=Model&format=SafeTensor&token=${TOKEN}"# 'broken expression'
+    "https://civitai.com/api/download/models/429014?type=Model&format=SafeTensor&token=${TOKEN}" # 'with a pained grimace, grimacing expression'
     "https://civitai.com/api/download/models/440265?type=Model&format=SafeTensor&token=${TOKEN}"# 'Wchastity metcage plascage cagecage'
     "https://civitai.com/api/download/models/182404?token=${TOKEN}" # LabiaplastyXL 
     "https://civitai.com/api/download/models/232190?type=Model&format=SafeTensor&token=${TOKEN}" # Rear Pussy XL
