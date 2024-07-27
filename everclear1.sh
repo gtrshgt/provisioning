@@ -42,10 +42,10 @@ EXTENSIONS=(
 
 # has to be api/download, and models/<modelVersionId> !
 CHECKPOINT_MODELS=(
-    #"https://civitai.com/api/download/models/534642?token=${TOKEN}" # PonyRealism v2.1 VAE
+    "https://civitai.com/api/download/models/534642?token=${TOKEN}" # PonyRealism v2.1 VAE
     "https://civitai.com/api/download/models/511677?token=${TOKEN}" # Everclear V3
     "https://civitai.com/api/download/models/595775?token=${TOKEN}" # CyberRealistic Pony , deleted?
-    #"https://civitai.com/api/download/models/253250?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # SDXXXL V3, goodl
+    "https://civitai.com/api/download/models/253250?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # SDXXXL V3, goodl
     #"https://civitai.com/api/download/models/629179?token=${TOKEN}" # boleromix
     #"https://civitai.com/models/476745?modelVersionId=604842?token=${TOKEN}" #  realistic Pony, not working?
     #https://civitai.com/api/download/models/637965 # GoodFit-Pony
@@ -66,17 +66,17 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/228559?token=${TOKEN}" # Omnigen
     ###"https://civitai.com/api/download/models/490639?token=${TOKEN}" # iNiverseMixXL
     # SD1.5
-    "https://civitai.com/api/download/models/179525?type=Model&format=SafeTensor&size=pruned&fp=fp16" # Rabbit
+    ##"https://civitai.com/api/download/models/179525?type=Model&format=SafeTensor&size=pruned&fp=fp16" # Rabbit
 )
 
 LORA_MODELS=(
     ## PonyXL
     ##"https://civitai.com/api/download/models/520909?token=${TOKEN}" # bodyTypeSlider
-    "https://civitai.com/api/download/models/565308?type=Model&format=SafeTensor&token=${TOKEN}" # Undressing SD1/XL/PONY. 'Undressing'
+    #"https://civitai.com/api/download/models/565308?type=Model&format=SafeTensor&token=${TOKEN}" # Undressing SD1/XL/PONY. 'Undressing'
     "https://civitai.com/api/download/models/264789?type=Model&format=SafeTensor&token=${TOKEN}" # 'legsbehindhead'
-    "https://civitai.com/api/download/models/651844?type=Model&format=SafeTensor&token=${TOKEN}" # (O.D.O.R) Feet Pony, 'feet' 
+    #"https://civitai.com/api/download/models/651844?type=Model&format=SafeTensor&token=${TOKEN}" # (O.D.O.R) Feet Pony, 'feet' 
     "https://civitai.com/api/download/models/657010?type=Model&format=SafeTensor&token=${TOKEN}" # 'cooperative fellatio, penis, group sex'
-    "https://civitai.com/api/download/models/169536?type=Model&format=SafeTensor&token=${TOKEN}" # TWbabeSDXL 'TWbabeXL01'
+    #"https://civitai.com/api/download/models/169536?type=Model&format=SafeTensor&token=${TOKEN}" # TWbabeSDXL 'TWbabeXL01'
     "https://civitai.com/api/download/models/395560?type=Model&format=SafeTensor&token=${TOKEN}" # 'pleasure-face, mild-pleasure/medium-pleasure/intense-pleasure, eyes open/eyes closed'
     "https://civitai.com/api/download/models/375618?type=Model&format=SafeTensor&token=${TOKEN}" # 'facial expression, aroused, pain, crying, scared, flirting, suprised, excited'
     "https://civitai.com/api/download/models/486194?type=Model&format=SafeTensor&token=${TOKEN}" # 'crying style'
@@ -84,7 +84,7 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/314787?type=Model&format=SafeTensor&token=${TOKEN}" # Torogao_Ahegao_slider, SDXL version
     "https://civitai.com/api/download/models/338805?type=Model&format=SafeTensor&token=${TOKEN}" # Torogao_Ahegao_slider, pony version
     "https://civitai.com/api/download/models/429014?type=Model&format=SafeTensor&token=${TOKEN}" # 'with a pained grimace, grimacing expression'
-    "https://civitai.com/api/download/models/440265?type=Model&format=SafeTensor&token=${TOKEN}"# 'Wchastity metcage plascage cagecage'
+    ##"https://civitai.com/api/download/models/440265?type=Model&format=SafeTensor&token=${TOKEN}"# 'Wchastity metcage plascage cagecage'
     "https://civitai.com/api/download/models/182404?token=${TOKEN}" # LabiaplastyXL 
     "https://civitai.com/api/download/models/232190?type=Model&format=SafeTensor&token=${TOKEN}" # Rear Pussy XL
     #-"https://civitai.com/api/download/models/396822?token=${TOKEN}" # PonyXL_SmallRaphtalia
