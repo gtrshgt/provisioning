@@ -64,7 +64,7 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/293240?type=Model&format=SafeTensor&size=pruned&fp=fp16?token=${TOKEN}" # Realism Engine SDXL
     #"https://civitai.com/api/download/models/541882?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Copax TimeLessXL, Nice sets w cloths, no pussy at all
     #"https://civitai.com/api/download/models/646523?token=${TOKEN}" # epiCRealism XL Kiss , Perfect texture, ugly pussy
-    #"https://civitai.com/api/download/models/303498?token=${TOKEN}" # softfantasy_realmagic YES
+    "https://civitai.com/api/download/models/303498?token=${TOKEN}" # softfantasy_realmagic YES
     #"https://civitai.com/api/download/models/228559?token=${TOKEN}" # Omnigen
     ###"https://civitai.com/api/download/models/490639?token=${TOKEN}" # iNiverseMixXL
     # SD1.5
