@@ -74,6 +74,7 @@ LORA_MODELS=(
     ## PonyXL
     ##"https://civitai.com/api/download/models/520909?token=${TOKEN}" # bodyTypeSlider
     #"https://civitai.com/api/download/models/565308?type=Model&format=SafeTensor&token=${TOKEN}" # Undressing SD1/XL/PONY. 'Undressing'
+    "https://civitai.com/api/download/models/669226?type=Model&format=SafeTensor&token=${TOKEN}" # 'stacking ass pussy 2girls' # Pussy sandwich for Pony
     "https://civitai.com/api/download/models/264789?type=Model&format=SafeTensor&token=${TOKEN}" # 'legsbehindhead'
     #"https://civitai.com/api/download/models/651844?type=Model&format=SafeTensor&token=${TOKEN}" # (O.D.O.R) Feet Pony, 'feet' 
     "https://civitai.com/api/download/models/657010?type=Model&format=SafeTensor&token=${TOKEN}" # 'cooperative fellatio, penis, group sex'
@@ -87,7 +88,7 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/429014?type=Model&format=SafeTensor&token=${TOKEN}" # 'with a pained grimace, grimacing expression'
     ##"https://civitai.com/api/download/models/440265?type=Model&format=SafeTensor&token=${TOKEN}"# 'Wchastity metcage plascage cagecage'
     "https://civitai.com/api/download/models/182404?token=${TOKEN}" # LabiaplastyXL 
-    "https://civitai.com/api/download/models/232190?type=Model&format=SafeTensor&token=${TOKEN}" # Rear Pussy XL
+    ##"https://civitai.com/api/download/models/232190?type=Model&format=SafeTensor&token=${TOKEN}" # Rear Pussy XL, bad!
     #-"https://civitai.com/api/download/models/396822?token=${TOKEN}" # PonyXL_SmallRaphtalia
     #-"https://civitai.com/api/download/models/416403?token=${TOKEN}" # AobaSuzukazeXL
     ##"https://civitai.com/api/download/models/413128?token=${TOKEN}" # footOnHead
