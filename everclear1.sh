@@ -40,6 +40,7 @@ EXTENSIONS=(
     "https://github.com/captainzero93/sd-webui-bubble-prompter" #
     "https://github.com/hnmr293/sd-webui-llul" # local latent upscale
     "https://github.com/Extraltodeus/test_my_prompt" # iterates leave one word out 
+    "https://github.com/THUDM/ImageReward#integration-into-stable-diffusion-web-ui" # ImageReward Scorer
 )
 
 # has to be api/download, and models/<modelVersionId> !
