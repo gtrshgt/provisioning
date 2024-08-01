@@ -39,6 +39,7 @@ EXTENSIONS=(
     "https://github.com/DominikDoom/a1111-sd-webui-tagcomplete"
     "https://github.com/captainzero93/sd-webui-bubble-prompter" #
     "https://github.com/hnmr293/sd-webui-llul" # local latent upscale
+    "https://github.com/Extraltodeus/test_my_prompt" # iterates leave one word out 
 )
 
 # has to be api/download, and models/<modelVersionId> !
