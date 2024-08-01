@@ -46,10 +46,10 @@ EXTENSIONS=(
 # has to be api/download, and models/<modelVersionId> !
 CHECKPOINT_MODELS=(
     "https://civitai.com/api/download/models/638137?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # GODDESS of Realism Pony_v1.0
-    "https://civitai.com/api/download/models/578496?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # 2DN-Pony
+    #-"https://civitai.com/api/download/models/578496?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # 2DN-Pony
     #"https://civitai.com/api/download/models/534642?token=${TOKEN}" # PonyRealism v2.1 VAE
-    #"https://civitai.com/api/download/models/511677?token=${TOKEN}" # Everclear V3
-    #"https://civitai.com/api/download/models/680915?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # CyberRealistic Pony , V6.1
+    "https://civitai.com/api/download/models/511677?token=${TOKEN}" # Everclear V3
+    "https://civitai.com/api/download/models/680915?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # CyberRealistic Pony , V6.1
     #"https://huggingface.co/cyberdelia/CyberRealisticPony/resolve/main/CyberRealisticPony_V5.safetensors?download=true" # V5 backup (deleted from civit)
     #"https://huggingface.co/XpucT/Deliberate/blob/main/Deliberate_v6.safetensors"  # Deliberate v6 
     #"https://civitai.com/api/download/models/629179?token=${TOKEN}" # boleromix
