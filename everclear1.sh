@@ -37,10 +37,10 @@ EXTENSIONS=(
     #"https://github.com/Physton/sd-webui-prompt-all-in-one"
     #"https://github.com/KohakuBlueleaf/z-a1111-sd-webui-dtg" #DanTagGen to upsample prompts
     "https://github.com/DominikDoom/a1111-sd-webui-tagcomplete"
-    "https://github.com/captainzero93/sd-webui-bubble-prompter" #
+    "https://github.com/captainzero93/sd-webui-bubble-prompter" 
     "https://github.com/hnmr293/sd-webui-llul" # local latent upscale
     "https://github.com/Extraltodeus/test_my_prompt" # iterates leave one word out 
-    "https://github.com/THUDM/ImageReward#integration-into-stable-diffusion-web-ui" # ImageReward Scorer
+    "https://github.com/THUDM/ImageReward" # ImageReward Scorer
 )
 
 # has to be api/download, and models/<modelVersionId> !
@@ -49,7 +49,7 @@ CHECKPOINT_MODELS=(
     #-"https://civitai.com/api/download/models/578496?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # 2DN-Pony
     #"https://civitai.com/api/download/models/534642?token=${TOKEN}" # PonyRealism v2.1 VAE
     "https://civitai.com/api/download/models/511677?token=${TOKEN}" # Everclear V3
-    "https://civitai.com/api/download/models/680915?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # CyberRealistic Pony , V6.1
+    #"https://civitai.com/api/download/models/680915?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # CyberRealistic Pony , V6.1
     #"https://huggingface.co/cyberdelia/CyberRealisticPony/resolve/main/CyberRealisticPony_V5.safetensors?download=true" # V5 backup (deleted from civit)
     #"https://huggingface.co/XpucT/Deliberate/blob/main/Deliberate_v6.safetensors"  # Deliberate v6 
     #"https://civitai.com/api/download/models/629179?token=${TOKEN}" # boleromix
@@ -70,7 +70,7 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/293240?type=Model&format=SafeTensor&size=pruned&fp=fp16?token=${TOKEN}" # Realism Engine SDXL
     #"https://civitai.com/api/download/models/541882?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Copax TimeLessXL, Nice sets w cloths, no pussy at all
     #"https://civitai.com/api/download/models/646523?token=${TOKEN}" # epiCRealism XL Kiss , Perfect texture, ugly pussy
-    #+"https://civitai.com/api/download/models/303498?token=${TOKEN}" # softfantasy_realmagic YES
+    "https://civitai.com/api/download/models/303498?token=${TOKEN}" # softfantasy_realmagic YES
     "https://civitai.com/api/download/models/253250?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # SDXXXL V3, goodl for single command, bad bodies on instructions
     #"https://civitai.com/api/download/models/228559?token=${TOKEN}" # Omnigen
     ###"https://civitai.com/api/download/models/490639?token=${TOKEN}" # iNiverseMixXL
