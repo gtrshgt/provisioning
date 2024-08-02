@@ -64,7 +64,7 @@ CHECKPOINT_MODELS=(
     ##"https://civitai.com/api/download/models/399640?token=${TOKEN}" # EverclearPNYbyZovya
     ##########"https://civitai.com/api/download/models/324524?token=${TOKEN}" # AutismMixXL_confetti
     #
-    "https://civitai.com/api/download/models/450146?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # PD for Anime
+    #"https://civitai.com/api/download/models/450146?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # PD for Anime
     #
     ###"https://civitai.com/api/download/models/471120?token=${TOKEN}" # Juggernaut XL RunDiffiusionHyper, epiCRealism is better
     #"https://civitai.com/api/download/models/293240?type=Model&format=SafeTensor&size=pruned&fp=fp16?token=${TOKEN}" # Realism Engine SDXL
