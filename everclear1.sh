@@ -117,10 +117,10 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/513933?type=Model&format=SafeTensor&token=${TOKEN}" # HDA_AhegaoXL
     #-"https://civitai.com/api/download/models/244808?type=Model&format=SafeTensor&token=${TOKEN}" # AllDisneyPrincessXL
     "https://civitai.com/api/download/models/394127?token=${TOKEN}" # realCumXL
-    "https://civitai.com/models/543154?modelVersionId=603935?token=${TOKEN}" # Reverse Fellatio !!
-    "https://civitai.com/api/download/models/603935?type=Model&format=SafeTensor?token=${TOKEN}" # Reverse Fellatio LoRa | PonyX '1girl, 1boy, reverse fellatio, head back, deepthroat, uncensored'
-    "https://civitai.com/api/download/models/631044?type=Model&format=SafeTensor?token=${TOKEN}" # '<lora:reverse-fellatio-ponyxl-lora-nochekaiser:1>, reverse fellatio, throat bulge, fellatio, oral, hetero, penis,'
-    "https://civitai.com/api/download/models/562839?type=Model&format=SafeTensor?token=${TOKEN}" # Reverse_fellatio, side view, wide shot,
+    "https://civitai.com/models/543154?modelVersionId=603935&token=${TOKEN}" # Reverse Fellatio !!
+    "https://civitai.com/api/download/models/603935?type=Model&format=SafeTensor&token=${TOKEN}" # Reverse Fellatio LoRa | PonyX '1girl, 1boy, reverse fellatio, head back, deepthroat, uncensored'
+    "https://civitai.com/api/download/models/631044?type=Model&format=SafeTensor&token=${TOKEN}" # '<lora:reverse-fellatio-ponyxl-lora-nochekaiser:1>, reverse fellatio, throat bulge, fellatio, oral, hetero, penis,'
+    "https://civitai.com/api/download/models/562839?type=Model&format=SafeTensor&token=${TOKEN}" # Reverse_fellatio, side view, wide shot,
     ##"https://civitai.com/api/download/models/360315?token=${TOKEN}" # ringGagXL
     ##"https://civitai.com/api/download/models/150991?token=${TOKEN}" # bondageXL
     "https://civitai.com/api/download/models/319375?type=Model&format=SafeTensor&token=${TOKEN}" # standingspreadeagle
