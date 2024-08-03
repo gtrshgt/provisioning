@@ -51,7 +51,7 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/511677?token=${TOKEN}" # Everclear V3
     #"https://civitai.com/api/download/models/680915?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # CyberRealistic Pony , V6.1
     #"https://huggingface.co/cyberdelia/CyberRealisticPony/resolve/main/CyberRealisticPony_V5.safetensors?download=true" # V5 backup (deleted from civit)
-    "https://huggingface.co/XpucT/Deliberate/blob/main/Deliberate_v6.safetensors?download=true"  # Deliberate v6 
+    #"https://huggingface.co/XpucT/Deliberate/blob/main/Deliberate_v6.safetensors?download=true"  # Deliberate v6 
     #"https://civitai.com/api/download/models/629179?token=${TOKEN}" # boleromix
     #"https://civitai.com/models/476745?modelVersionId=604842?token=${TOKEN}" #  realistic Pony, not working?
     #https://civitai.com/api/download/models/637965 # GoodFit-Pony
