@@ -37,7 +37,7 @@ EXTENSIONS=(
     #"https://github.com/Physton/sd-webui-prompt-all-in-one"
     #"https://github.com/KohakuBlueleaf/z-a1111-sd-webui-dtg" #DanTagGen to upsample prompts
     "https://github.com/DominikDoom/a1111-sd-webui-tagcomplete"
-    "https://github.com/captainzero93/sd-webui-bubble-prompter" 
+    "https://github.com/captainzero93/sd-webui-bubble-prompter.git" 
     "https://github.com/hnmr293/sd-webui-llul" # local latent upscale
     "https://github.com/Extraltodeus/test_my_prompt" # iterates leave one word out 
     "https://github.com/THUDM/ImageReward" # ImageReward Scorer
@@ -47,8 +47,8 @@ EXTENSIONS=(
 CHECKPOINT_MODELS=(
     "https://civitai.com/api/download/models/638137?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # GODDESS of Realism Pony_v1.0
     #-"https://civitai.com/api/download/models/578496?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # 2DN-Pony
-    "https://civitai.com/api/download/models/534642?token=${TOKEN}" # PonyRealism v2.1 VAE
-    #"https://civitai.com/api/download/models/511677?token=${TOKEN}" # Everclear V3
+    #"https://civitai.com/api/download/models/534642?token=${TOKEN}" # PonyRealism v2.1 VAE
+    "https://civitai.com/api/download/models/511677?token=${TOKEN}" # Everclear V3
     #"https://civitai.com/api/download/models/680915?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # CyberRealistic Pony , V6.1
     #"https://huggingface.co/cyberdelia/CyberRealisticPony/resolve/main/CyberRealisticPony_V5.safetensors?download=true" # V5 backup (deleted from civit)
     #"https://huggingface.co/XpucT/Deliberate/resolve/main/Deliberate_v6.safetensors"  # Deliberate v6 
