@@ -148,7 +148,7 @@ EMBEDDINGS=(
     #"https://civitai.com/api/download/models/482268?type=Negative&format=Other" # Pony PDXL Negative , PhotoReal
     "https://civitai.com/api/download/models/95256" # EpiCRealism - embedding
     "https://civitai.com/api/download/models/95263" # EpiCRealism Negative - embedding
-    "https://civitai.com/api/download/models/30624?type=Model&format=PickleTensor&size=full&fp=fp16" # 'takagiza-1400' SD1.5
+    #"https://civitai.com/api/download/models/30624?type=Model&format=PickleTensor&size=full&fp=fp16" # 'takagiza-1400' SD1.5
 )
 
 VAE_MODELS=(
