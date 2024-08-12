@@ -18,7 +18,7 @@ PIP_PACKAGES=(
   )
 
 EXTENSIONS=(
-    "https://github.com/mcmonkeyprojects/sd-dynamic-thresholding"
+    #"https://github.com/mcmonkeyprojects/sd-dynamic-thresholding"
     #-"https://github.com/Mikubill/sd-webui-controlnet"
     #+"https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111"
     #+"https://github.com/Coyote-A/ultimate-upscale-for-automatic1111"
@@ -26,7 +26,7 @@ EXTENSIONS=(
     #"https://github.com/hnmr293/posex"
     "https://github.com/d8ahazard/sd_dreambooth_extension"
     #"https://github.com/deforum-art/sd-webui-deforum"
-    #"https://github.com/adieyal/sd-dynamic-prompts"
+    "https://github.com/adieyal/sd-dynamic-prompts"
     #"https://github.com/ototadana/sd-face-editor"
     "https://github.com/AlUlkesh/stable-diffusion-webui-images-browser"
     #"https://github.com/zanllp/sd-webui-infinite-image-browsing"
