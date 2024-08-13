@@ -213,6 +213,7 @@ function provisioning_start() {
     provisioning_get_models \
         "${WORKSPACE}/storage/stable_diffusion/models/esrgan" \
         "${ESRGAN_MODELS[@]}"
+    provisioning_get_wildcards
 
     PLATFORM_FLAGS=""
     if [[ $XPU_TARGET = "CPU" ]]; then
@@ -281,6 +282,14 @@ function provisioning_get_models() {
         provisioning_download "${url}" "${dir}"
         printf "\n"
     done
+}
+
+function provisioning_get_wildcards() {
+    dir=/opt/stable-diffusion-webui/extensions/sd-dynamic-prompts/
+    url=https://github.com/gtrshgt/provisioning/tree/main/wildcards
+    printf "Downloading: %s\n" "${url}"
+    provisioning_download "${url}" "${dir}"
+    printf "\n"    
 }
 
 function provisioning_print_header() {
