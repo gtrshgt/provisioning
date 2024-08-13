@@ -183,6 +183,25 @@ CONTROLNET_MODELS=(
     #"https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_style-fp16.safetensors"
 )
 
+WILDCARDS=(
+    "actress.txt"
+    "assesoir.txt"
+    "basescene.txt"
+    "breasts.txt"
+    "expression.txt"
+    "expression_1.txt"
+    "facetype.txt"
+    "fototype.txt"
+    "improver.txt"
+    "name.txt"
+    "national.txt"
+    "object_pose.txt"
+    "outfit.txt"
+    "photo_angle.txt"
+    "place.txt"
+    "saction.txt"
+    "saddon.txt"
+)
 
 ### DO NOT EDIT BELOW HERE UNLESS YOU KNOW WHAT YOU ARE DOING ###
 
@@ -213,7 +232,7 @@ function provisioning_start() {
     provisioning_get_models \
         "${WORKSPACE}/storage/stable_diffusion/models/esrgan" \
         "${ESRGAN_MODELS[@]}"
-    provisioning_get_wildcards
+    provisioning_get_wildcards 
 
     PLATFORM_FLAGS=""
     if [[ $XPU_TARGET = "CPU" ]]; then
@@ -285,11 +304,13 @@ function provisioning_get_models() {
 }
 
 function provisioning_get_wildcards() {
+    urlbase=https://raw.githubusercontent.com/gtrshgt/provisioning/main/wildcards
     dir=/opt/stable-diffusion-webui/extensions/sd-dynamic-prompts/
-    url=https://github.com/gtrshgt/provisioning/tree/main/wildcards
-    printf "Downloading: %s\n" "${url}"
-    provisioning_download "${url}" "${dir}"
-    printf "\n"    
+    for url in "${WILDCARDS[@]}"; do
+        printf "Downloading: %s\n" "${url}"
+        provisioning_download "${urlbase}/${url}" "${dir}"
+        printf "\n"    
+    done
 }
 
 function provisioning_print_header() {
