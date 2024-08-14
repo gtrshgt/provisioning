@@ -70,6 +70,7 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/24205" # LizVicious
     "https://civitai.com/api/download/models/320676" # flatChestedSD1.5
     "https://civitai.com/api/download/models/146600" # breastSizeslider1.5
+    "https://civitai.com/api/download/models/448977?token=${TOKEN}" # ageSliderPonyXL
 )
 
 VAE_MODELS=(
