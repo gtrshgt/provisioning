@@ -33,6 +33,7 @@ EXTENSIONS=(
 CHECKPOINT_MODELS=(
     "https://civitai.com/api/download/models/272376" #picXreal
     "https://civitai.com/api/download/models/160989" #epiCRealism
+    "https://huggingface.co/XpucT/Deliberate/resolve/main/Deliberate_v6.safetensors"  # Deliberate v6
     #"https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt"
     #"https://huggingface.co/stabilityai/stable-diffusion-2-1/resolve/main/v2-1_768-ema-pruned.ckpt"
     #"https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors"
@@ -70,7 +71,6 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/24205" # LizVicious
     "https://civitai.com/api/download/models/320676" # flatChestedSD1.5
     "https://civitai.com/api/download/models/146600" # breastSizeslider1.5
-    "https://civitai.com/api/download/models/448977?token=${TOKEN}" # ageSliderPonyXL
 )
 
 VAE_MODELS=(
