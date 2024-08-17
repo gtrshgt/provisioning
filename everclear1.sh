@@ -305,7 +305,7 @@ function provisioning_get_models() {
 
 function provisioning_get_wildcards() {
     urlbase=https://raw.githubusercontent.com/gtrshgt/provisioning/main/wildcards
-    dir=/opt/stable-diffusion-webui/extensions/sd-dynamic-prompts/
+    dir=/opt/stable-diffusion-webui/extensions/sd-dynamic-prompts/wildcards
     for url in "${WILDCARDS[@]}"; do
         printf "Downloading: %s\n" "${url}"
         provisioning_download "${urlbase}/${url}" "${dir}"
