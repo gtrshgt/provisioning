@@ -6,7 +6,7 @@
 
 ### Edit the following arrays to suit your workflow - values must be quoted and separated by newlines or spaces.
 
-DISK_GB_REQUIRED=30
+DISK_GB_REQUIRED=35
 
 MAMBA_PACKAGES=(
     #"package1"
@@ -18,66 +18,45 @@ PIP_PACKAGES=(
   )
 
 EXTENSIONS=(
-    "https://github.com/Mikubill/sd-webui-controlnet"
-    #"https://github.com/d8ahazard/sd_dreambooth_extension"
+    #"https://github.com/mcmonkeyprojects/sd-dynamic-thresholding"
+    #-"https://github.com/Mikubill/sd-webui-controlnet"
+    #+"https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111"
+    #+"https://github.com/Coyote-A/ultimate-upscale-for-automatic1111"
+    #"https://github.com/fkunn1326/openpose-editor"
+    #"https://github.com/hnmr293/posex"
+    "https://github.com/d8ahazard/sd_dreambooth_extension"
     #"https://github.com/deforum-art/sd-webui-deforum"
     "https://github.com/adieyal/sd-dynamic-prompts"
     #"https://github.com/ototadana/sd-face-editor"
     "https://github.com/AlUlkesh/stable-diffusion-webui-images-browser"
+    #"https://github.com/zanllp/sd-webui-infinite-image-browsing"
     #"https://github.com/hako-mikan/sd-webui-regional-prompter"
-    "https://github.com/Coyote-A/ultimate-upscale-for-automatic1111"
-    #"https://github.com/fkunn1326/openpose-editor"
     #"https://github.com/Gourieff/sd-webui-reactor"
+    "https://github.com/Haoming02/sd-webui-vectorscope-cc"
+    "https://github.com/pharmapsychotic/clip-interrogator-ext"
+    #"https://github.com/Physton/sd-webui-prompt-all-in-one"
+    #"https://github.com/KohakuBlueleaf/z-a1111-sd-webui-dtg" #DanTagGen to upsample prompts
+    "https://github.com/DominikDoom/a1111-sd-webui-tagcomplete"
+    #-"https://github.com/captainzero93/sd-webui-bubble-prompter.git" 
+    "https://github.com/hnmr293/sd-webui-llul" # local latent upscale
+    #_"https://github.com/Extraltodeus/test_my_prompt" # iterates leave one word out 
+    #-"https://github.com/THUDM/ImageReward" # ImageReward Scorer
 )
 
 CHECKPOINT_MODELS=(
-    "https://civitai.com/api/download/models/399640" # EverclearPNYbyZovya
-    #"https://huggingface.co/runwayml/stable-diffusion-v1-5/resolve/main/v1-5-pruned-emaonly.ckpt"
-    #"https://huggingface.co/stabilityai/stable-diffusion-2-1/resolve/main/v2-1_768-ema-pruned.ckpt"
-    #"https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors"
-    #"https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors"
+    "https://civitai.com/api/download/models/691639?type=Model&format=SafeTensor&size=pruned&fp=fp8&token=${TOKEN}" # FLUX Dev fp8
 )
 
 LORA_MODELS=(
-    "https://civitai.com/api/download/models/118945" # epicRealHelper
-    "https://civitai.com/api/download/models/62833"  # moreDetail
-    "https://civitai.com/api/download/models/74288"  # clothesLiftSelfie
-    "https://civitai.com/api/download/models/156648" # pantsDown
-    "https://civitai.com/api/download/models/7870"   # shirtlift
-    "https://civitai.com/api/download/models/163466" # ahegao
-    "https://civitai.com/api/download/models/104483" #tapeGag
-    "https://civitai.com/api/download/models/177370" # tornClothes
-    "https://civitai.com/api/download/models/332520" # selfie
-    "https://civitai.com/api/download/models/44041" # penisOnFace
-    "https://civitai.com/api/download/models/9521" # coveringEyes
-    "https://civitai.com/api/download/models/129737" # coverCrotchBreasts
-    "https://civitai.com/api/download/models/159408" # cumB1
-    "https://civitai.com/api/download/models/347907" # selfWedgie
-    "https://civitai.com/api/download/models/466597" # doggySexSideview
-    "https://civitai.com/api/download/models/11192" # imminentPenetration
-    "https://civitai.com/api/download/models/349283"  # messyRoom
-    "https://civitai.com/api/download/models/183382" # missionaryPose
-    "https://civitai.com/api/download/models/42995" # FullNelson
-    "https://civitai.com/api/download/models/46493" # pillory
-    "https://civitai.com/api/download/models/183382" # missionaryVaginal
-    "https://civitai.com/api/download/models/197444" # doggyanal
-    "https://civitai.com/api/download/models/99602" # godpussy1
-    "https://civitai.com/api/download/models/101249" # deepthroat
-    "https://civitai.com/api/download/models/22912" # assGrab
-    "https://civitai.com/api/download/models/155980" # swordswallowing
-    "https://civitai.com/models/22123/in-public-photographers" # publicphotographers
+    "https://civitai.com/api/download/models/753339?type=Model&format=SafeTensor&token=${TOKEN}" # Phlux V1
+    "https://civitai.com/api/download/models/756149?type=Model&format=SafeTensor&token=${TOKEN}" # Amateur Photography v2.0  
 )
 
 VAE_MODELS=(
-    #"https://huggingface.co/stabilityai/sd-vae-ft-ema-original/resolve/main/vae-ft-ema-560000-ema-pruned.safetensors"
-    #"https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.safetensors"
-    #"https://huggingface.co/stabilityai/sdxl-vae/resolve/main/sdxl_vae.safetensors"
 )
 
 ESRGAN_MODELS=(
     "https://huggingface.co/ai-forever/Real-ESRGAN/resolve/main/RealESRGAN_x4.pth"
-    #"https://huggingface.co/FacehugmanIII/4x_foolhardy_Remacri/resolve/main/4x_foolhardy_Remacri.pth"
-    #"https://huggingface.co/Akumetsu971/SD_Anime_Futuristic_Armor/resolve/main/4x_NMKD-Siax_200k.pth"
 )
 
 CONTROLNET_MODELS=(
@@ -89,11 +68,11 @@ CONTROLNET_MODELS=(
     #"https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/control_openpose-fp16.safetensors"
     #"https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/control_scribble-fp16.safetensors"
     #"https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/control_seg-fp16.safetensors"
-    "https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_canny-fp16.safetensors"
-    "https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_color-fp16.safetensors"
-    "https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_depth-fp16.safetensors"
+    #"https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_canny-fp16.safetensors"
+    #"https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_color-fp16.safetensors"
+    #"https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_depth-fp16.safetensors"
     #"https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_keypose-fp16.safetensors"
-    "https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_openpose-fp16.safetensors"
+    #"https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_openpose-fp16.safetensors"
     #"https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_seg-fp16.safetensors"
     #"https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_sketch-fp16.safetensors"
     #"https://huggingface.co/webui/ControlNet-modules-safetensors/resolve/main/t2iadapter_style-fp16.safetensors"
