@@ -54,14 +54,14 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/680915?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # CyberRealistic Pony , V6.1
     #"https://huggingface.co/cyberdelia/CyberRealisticPony/resolve/main/CyberRealisticPony_V5.safetensors?download=true" # V5 backup (deleted from civit)
     #"https://civitai.com/api/download/models/629179?token=${TOKEN}" # boleromix
-    "https://civitai.com/api/download/models/674533?type=Model&format=SafeTensor&size=pruned&fp=fp16?token=${TOKEN}" #  Godiva
+    #"https://civitai.com/api/download/models/674533?type=Model&format=SafeTensor&size=pruned&fp=fp16?token=${TOKEN}" #  Godiva
     #https://civitai.com/api/download/models/637965 # GoodFit-Pony
     #"https://civitai.com/api/download/models/619549?token=${TOKEN}" # DucHaiten Pony-Real, checking
     #"https://civitai.com/api/download/models/531417?token=${TOKEN}" # DucHaiten Pony-XL (no-score)
     #-"https://civitai.com/api/download/models/441236?token=${TOKEN}" # 7th anime XL-Pony A
     #"https://civitai.com/models/413979?modelVersionId=526408?token=${TOKEN}" #Raemora XL 
     #-"https://civitai.com/api/download/models/465251?token=${TOKEN}" # PonyRealism
-    "https://civitai.com/api/download/models/515456?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # RealPony real_anime, jap
+    #"https://civitai.com/api/download/models/515456?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # RealPony real_anime, jap
     ##"https://civitai.com/api/download/models/399640?token=${TOKEN}" # EverclearPNYbyZovya
     ##########"https://civitai.com/api/download/models/324524?token=${TOKEN}" # AutismMixXL_confetti
     #
@@ -70,7 +70,7 @@ CHECKPOINT_MODELS=(
     ###"https://civitai.com/api/download/models/471120?token=${TOKEN}" # Juggernaut XL RunDiffiusionHyper, epiCRealism is better
     #"https://civitai.com/api/download/models/293240?type=Model&format=SafeTensor&size=pruned&fp=fp16?token=${TOKEN}" # Realism Engine SDXL
     #"https://civitai.com/api/download/models/541882?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Copax TimeLessXL, Nice sets w cloths, no pussy at all
-    #"https://civitai.com/api/download/models/646523?token=${TOKEN}" # epiCRealism XL Kiss , Perfect texture, ugly pussy
+    "https://civitai.com/api/download/models/646523?token=${TOKEN}" # epiCRealism XL Kiss , Perfect texture, ugly pussy
     "https://civitai.com/api/download/models/303498?token=${TOKEN}" # softfantasy_realmagic YES
     "https://civitai.com/api/download/models/253250?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # SDXXXL V3, goodl for single command, bad bodies on instructions
     #"https://civitai.com/api/download/models/363977?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # OnlyForNsfw118 v2.0
@@ -85,7 +85,7 @@ LORA_MODELS=(
     ##"https://civitai.com/api/download/models/520909?token=${TOKEN}" # bodyTypeSlider
     #"https://civitai.com/api/download/models/565308?type=Model&format=SafeTensor&token=${TOKEN}" # Undressing SD1/XL/PONY. 'Undressing'
     "https://civitai.com/api/download/models/669226?type=Model&format=SafeTensor&token=${TOKEN}" # 'stacking ass pussy 2girls' # Pussy sandwich for Pony
-    "https://civitai.com/api/download/models/264789?type=Model&format=SafeTensor&token=${TOKEN}" # 'legsbehindhead'
+    #"https://civitai.com/api/download/models/264789?type=Model&format=SafeTensor&token=${TOKEN}" # 'legsbehindhead', ugly
     #"https://civitai.com/api/download/models/651844?type=Model&format=SafeTensor&token=${TOKEN}" # (O.D.O.R) Feet Pony, 'feet' 
     "https://civitai.com/api/download/models/657010?type=Model&format=SafeTensor&token=${TOKEN}" # 'cooperative fellatio, penis, group sex'
     #"https://civitai.com/api/download/models/169536?type=Model&format=SafeTensor&token=${TOKEN}" # TWbabeSDXL 'TWbabeXL01'
@@ -95,8 +95,8 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/506561?type=Model&format=SafeTensor&token=${TOKEN}" # 'broken expression'
     "https://civitai.com/api/download/models/314787?type=Model&format=SafeTensor&token=${TOKEN}" # Torogao_Ahegao_slider, SDXL version
     "https://civitai.com/api/download/models/338805?type=Model&format=SafeTensor&token=${TOKEN}" # Torogao_Ahegao_slider, pony version
-    "https://civitai.com/api/download/models/429014?type=Model&format=SafeTensor&token=${TOKEN}" # 'with a pained grimace, grimacing expression'
-    "https://civitai.com/api/download/models/681264?type=Model&format=SafeTensor&token=${TOKEN}" # Magic Wand Vibrator 'Magic Wand'
+    #"https://civitai.com/api/download/models/429014?type=Model&format=SafeTensor&token=${TOKEN}" # 'with a pained grimace, grimacing expression', ugly
+    #"https://civitai.com/api/download/models/681264?type=Model&format=SafeTensor&token=${TOKEN}" # Magic Wand Vibrator 'Magic Wand', ugly
     ##"https://civitai.com/api/download/models/440265?type=Model&format=SafeTensor&token=${TOKEN}"# 'Wchastity metcage plascage cagecage'
     "https://civitai.com/api/download/models/182404?token=${TOKEN}" # LabiaplastyXL 
     ##"https://civitai.com/api/download/models/232190?type=Model&format=SafeTensor&token=${TOKEN}" # Rear Pussy XL, bad!
@@ -120,9 +120,9 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/513933?type=Model&format=SafeTensor&token=${TOKEN}" # HDA_AhegaoXL
     #-"https://civitai.com/api/download/models/244808?type=Model&format=SafeTensor&token=${TOKEN}" # AllDisneyPrincessXL
     "https://civitai.com/api/download/models/394127?token=${TOKEN}" # realCumXL
-    "https://civitai.com/api/download/models/603935?type=Model&format=SafeTensor&token=${TOKEN}" # Reverse Fellatio LoRa | PonyX '1girl, 1boy, reverse fellatio, head back, deepthroat, uncensored'
-    "https://civitai.com/api/download/models/631044?type=Model&format=SafeTensor&token=${TOKEN}" # '<lora:reverse-fellatio-ponyxl-lora-nochekaiser:1>, reverse fellatio, throat bulge, fellatio, oral, hetero, penis,'
-    "https://civitai.com/api/download/models/562839?type=Model&format=SafeTensor&token=${TOKEN}" # Reverse_fellatio, side view, wide shot,
+    #"https://civitai.com/api/download/models/603935?type=Model&format=SafeTensor&token=${TOKEN}" # Reverse Fellatio LoRa | PonyX '1girl, 1boy, reverse fellatio, head back, deepthroat, uncensored'
+    #"https://civitai.com/api/download/models/631044?type=Model&format=SafeTensor&token=${TOKEN}" # '<lora:reverse-fellatio-ponyxl-lora-nochekaiser:1>, reverse fellatio, throat bulge, fellatio, oral, hetero, penis,'
+    #"https://civitai.com/api/download/models/562839?type=Model&format=SafeTensor&token=${TOKEN}" # Reverse_fellatio, side view, wide shot,
     ##"https://civitai.com/api/download/models/360315?token=${TOKEN}" # ringGagXL
     ##"https://civitai.com/api/download/models/150991?token=${TOKEN}" # bondageXL
     "https://civitai.com/api/download/models/319375?type=Model&format=SafeTensor&token=${TOKEN}" # standingspreadeagle
