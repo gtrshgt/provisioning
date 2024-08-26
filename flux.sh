@@ -45,11 +45,12 @@ EXTENSIONS=(
 
 CHECKPOINT_MODELS=(
     "https://civitai.com/api/download/models/691639?type=Model&format=SafeTensor&size=pruned&fp=fp8&token=${TOKEN}" # FLUX Dev fp8
+    "https://civitai.com/api/download/models/699279?type=Model&format=SafeTensor&size=pruned&fp=fp8&token=${TOKEN}" # FLUX Schnell fp8
 )
 
 LORA_MODELS=(
-    "https://civitai.com/api/download/models/753339?type=Model&format=SafeTensor&token=${TOKEN}" # Phlux V1
-    "https://civitai.com/api/download/models/756149?type=Model&format=SafeTensor&token=${TOKEN}" # Amateur Photography v2.0  
+    "https://civitai.com/api/download/models/753339?type=Model&format=SafeTensor&token=${TOKEN}" # Phlux V1 
+    "https://civitai.com/api/download/models/756149?type=Model&format=SafeTensor&token=${TOKEN}" # Amateur Photography v2.0  'Amateur photography, on flickr in 2007, 2005 blog, 2007 blog'
 )
 
 VAE_MODELS=(
