@@ -37,10 +37,10 @@ EXTENSIONS=(
     #"https://github.com/Physton/sd-webui-prompt-all-in-one"
     #"https://github.com/KohakuBlueleaf/z-a1111-sd-webui-dtg" #DanTagGen to upsample prompts
     "https://github.com/DominikDoom/a1111-sd-webui-tagcomplete"
-    "https://github.com/captainzero93/sd-webui-bubble-prompter.git" 
+    #-"https://github.com/captainzero93/sd-webui-bubble-prompter.git" 
     "https://github.com/hnmr293/sd-webui-llul" # local latent upscale
-    "https://github.com/Extraltodeus/test_my_prompt" # iterates leave one word out 
-    "https://github.com/THUDM/ImageReward" # ImageReward Scorer
+    #_"https://github.com/Extraltodeus/test_my_prompt" # iterates leave one word out 
+    #-"https://github.com/THUDM/ImageReward" # ImageReward Scorer
 )
 
 # has to be api/download, and models/<modelVersionId> !
@@ -96,6 +96,7 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/314787?type=Model&format=SafeTensor&token=${TOKEN}" # Torogao_Ahegao_slider, SDXL version
     "https://civitai.com/api/download/models/338805?type=Model&format=SafeTensor&token=${TOKEN}" # Torogao_Ahegao_slider, pony version
     "https://civitai.com/api/download/models/429014?type=Model&format=SafeTensor&token=${TOKEN}" # 'with a pained grimace, grimacing expression'
+    "https://civitai.com/api/download/models/681264?type=Model&format=SafeTensor&token=${TOKEN}" # Magic Wand Vibrator 'Magic Wand'
     ##"https://civitai.com/api/download/models/440265?type=Model&format=SafeTensor&token=${TOKEN}"# 'Wchastity metcage plascage cagecage'
     "https://civitai.com/api/download/models/182404?token=${TOKEN}" # LabiaplastyXL 
     ##"https://civitai.com/api/download/models/232190?type=Model&format=SafeTensor&token=${TOKEN}" # Rear Pussy XL, bad!
