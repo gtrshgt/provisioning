@@ -51,6 +51,7 @@ CHECKPOINT_MODELS=(
 LORA_MODELS=(
     "https://civitai.com/api/download/models/753339?type=Model&format=SafeTensor&token=${TOKEN}" # Phlux V1 
     "https://civitai.com/api/download/models/756149?type=Model&format=SafeTensor&token=${TOKEN}" # Amateur Photography v2.0  'Amateur photography, on flickr in 2007, 2005 blog, 2007 blog'
+    "https://civitai.com/api/download/models/736227?type=Model&format=SafeTensor&token=${TOKEN}" # SCG-Anatomy-Flux1.d V2 'scg-anatomy-female'
 )
 
 VAE_MODELS=(
