@@ -51,7 +51,6 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/511677?token=${TOKEN}" # Everclear V3
     "https://civitai.com/api/download/models/706559?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # WAI-REAL_CN v10.0
     "https://civitai.com/api/download/models/717529?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # WAI-REALMIX v9.0 
-    ##"https://civitai.com/api/download/models/662796?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # WAI-NatureRealMIX-For-PONYXL v1.0
     ###"https://civitai.com/api/download/models/714540?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # WAI-CUTE v6.0
     #"https://civitai.com/api/download/models/693545?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Sevenof9_pony_real_mix Smart_Evolution
     #"https://civitai.com/api/download/models/680915?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # CyberRealistic Pony , V6.1
