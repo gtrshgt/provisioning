@@ -45,12 +45,14 @@ EXTENSIONS=(
 
 # has to be api/download, and models/<modelVersionId> !
 CHECKPOINT_MODELS=(
+    "https://civitai.com/api/download/models/699279?type=Model&format=SafeTensor&size=pruned&fp=fp8&token=${TOKEN}" # FLUX Schnell fp8
+    #
     #"https://civitai.com/api/download/models/638137?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # GODDESS of Realism Pony_v1.0
     #-"https://civitai.com/api/download/models/578496?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # 2DN-Pony
     #"https://civitai.com/api/download/models/534642?token=${TOKEN}" # PonyRealism v2.1 VAE
     #"https://civitai.com/api/download/models/511677?token=${TOKEN}" # Everclear V3
     "https://civitai.com/api/download/models/706559?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # WAI-REAL_CN v10.0
-    "https://civitai.com/api/download/models/717529?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # WAI-REALMIX v9.0 
+    #"https://civitai.com/api/download/models/717529?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # WAI-REALMIX v9.0 
     ###"https://civitai.com/api/download/models/714540?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # WAI-CUTE v6.0
     #"https://civitai.com/api/download/models/693545?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Sevenof9_pony_real_mix Smart_Evolution
     #"https://civitai.com/api/download/models/680915?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # CyberRealistic Pony , V6.1
@@ -73,9 +75,9 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/293240?type=Model&format=SafeTensor&size=pruned&fp=fp16?token=${TOKEN}" # Realism Engine SDXL
     #"https://civitai.com/api/download/models/541882?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Copax TimeLessXL, Nice sets w cloths, no pussy at all
     "https://civitai.com/api/download/models/646523?token=${TOKEN}" # epiCRealism XL Kiss , Perfect texture, ugly pussy
-    "https://civitai.com/api/download/models/303498?token=${TOKEN}" # softfantasy_realmagic YES
+    #"https://civitai.com/api/download/models/303498?token=${TOKEN}" # softfantasy_realmagic YES
     #"https://civitai.com/api/download/models/253250?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # SDXXXL V3, goodl for single command, bad bodies on instructions
-    #"https://civitai.com/api/download/models/363977?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # OnlyForNsfw118 v2.0
+    "https://civitai.com/api/download/models/363977?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # OnlyForNsfw118 v2.0
     #"https://civitai.com/api/download/models/228559?token=${TOKEN}" # Omnigen
     ###"https://civitai.com/api/download/models/490639?token=${TOKEN}" # iNiverseMixXL
     # SD1.5
@@ -83,24 +85,26 @@ CHECKPOINT_MODELS=(
 )
 
 LORA_MODELS=(
+    ## Flux
+    
     ## PonyXL
     ##"https://civitai.com/api/download/models/520909?token=${TOKEN}" # bodyTypeSlider
     #"https://civitai.com/api/download/models/565308?type=Model&format=SafeTensor&token=${TOKEN}" # Undressing SD1/XL/PONY. 'Undressing'
-    "https://civitai.com/api/download/models/669226?type=Model&format=SafeTensor&token=${TOKEN}" # 'stacking ass pussy 2girls' # Pussy sandwich for Pony
+    #"https://civitai.com/api/download/models/669226?type=Model&format=SafeTensor&token=${TOKEN}" # 'stacking ass pussy 2girls' # Pussy sandwich for Pony
     #"https://civitai.com/api/download/models/264789?type=Model&format=SafeTensor&token=${TOKEN}" # 'legsbehindhead', ugly
     #"https://civitai.com/api/download/models/651844?type=Model&format=SafeTensor&token=${TOKEN}" # (O.D.O.R) Feet Pony, 'feet' 
-    "https://civitai.com/api/download/models/657010?type=Model&format=SafeTensor&token=${TOKEN}" # 'cooperative fellatio, penis, group sex'
+    #+"https://civitai.com/api/download/models/657010?type=Model&format=SafeTensor&token=${TOKEN}" # 'cooperative fellatio, penis, group sex'
     #"https://civitai.com/api/download/models/169536?type=Model&format=SafeTensor&token=${TOKEN}" # TWbabeSDXL 'TWbabeXL01'
-    "https://civitai.com/api/download/models/395560?type=Model&format=SafeTensor&token=${TOKEN}" # 'pleasure-face, mild-pleasure/medium-pleasure/intense-pleasure, eyes open/eyes closed'
-    "https://civitai.com/api/download/models/375618?type=Model&format=SafeTensor&token=${TOKEN}" # 'facial expression, aroused, pain, crying, scared, flirting, suprised, excited'
-    "https://civitai.com/api/download/models/486194?type=Model&format=SafeTensor&token=${TOKEN}" # 'crying style'
-    "https://civitai.com/api/download/models/506561?type=Model&format=SafeTensor&token=${TOKEN}" # 'broken expression'
-    "https://civitai.com/api/download/models/314787?type=Model&format=SafeTensor&token=${TOKEN}" # Torogao_Ahegao_slider, SDXL version
-    "https://civitai.com/api/download/models/338805?type=Model&format=SafeTensor&token=${TOKEN}" # Torogao_Ahegao_slider, pony version
+    #"https://civitai.com/api/download/models/395560?type=Model&format=SafeTensor&token=${TOKEN}" # 'pleasure-face, mild-pleasure/medium-pleasure/intense-pleasure, eyes open/eyes closed'
+    #+"https://civitai.com/api/download/models/375618?type=Model&format=SafeTensor&token=${TOKEN}" # 'facial expression, aroused, pain, crying, scared, flirting, suprised, excited'
+    #+"https://civitai.com/api/download/models/486194?type=Model&format=SafeTensor&token=${TOKEN}" # 'crying style'
+    #"https://civitai.com/api/download/models/506561?type=Model&format=SafeTensor&token=${TOKEN}" # 'broken expression'
+    #"https://civitai.com/api/download/models/314787?type=Model&format=SafeTensor&token=${TOKEN}" # Torogao_Ahegao_slider, SDXL version
+    #"https://civitai.com/api/download/models/338805?type=Model&format=SafeTensor&token=${TOKEN}" # Torogao_Ahegao_slider, pony version
     #"https://civitai.com/api/download/models/429014?type=Model&format=SafeTensor&token=${TOKEN}" # 'with a pained grimace, grimacing expression', ugly
     #"https://civitai.com/api/download/models/681264?type=Model&format=SafeTensor&token=${TOKEN}" # Magic Wand Vibrator 'Magic Wand', ugly
     ##"https://civitai.com/api/download/models/440265?type=Model&format=SafeTensor&token=${TOKEN}"# 'Wchastity metcage plascage cagecage'
-    "https://civitai.com/api/download/models/182404?token=${TOKEN}" # LabiaplastyXL 
+    #"https://civitai.com/api/download/models/182404?token=${TOKEN}" # LabiaplastyXL 
     ##"https://civitai.com/api/download/models/232190?type=Model&format=SafeTensor&token=${TOKEN}" # Rear Pussy XL, bad!
     #-"https://civitai.com/api/download/models/396822?token=${TOKEN}" # PonyXL_SmallRaphtalia
     #-"https://civitai.com/api/download/models/416403?token=${TOKEN}" # AobaSuzukazeXL
@@ -112,14 +116,14 @@ LORA_MODELS=(
     ## SDXL
     ##"https://civitai.com/api/download/models/288407?token=${TOKEN}" # bodyWriting
     "https://civitai.com/api/download/models/240274?token=${TOKEN}" # zoomXL
-    "https://civitai.com/api/download/models/273996?token=${TOKEN}" # DPO_followPrompt
+    #"https://civitai.com/api/download/models/273996?token=${TOKEN}" # DPO_followPrompt
     #-"https://civitai.com/api/download/models/249521?token=${TOKEN}" # textSDXL
     "https://civitai.com/api/download/models/135867?token=${TOKEN}" # detailTweakerXL   
     #-"https://civitai.com/api/download/models/127928?token=${TOKEN}" # finenude 
     #-"https://civitai.com/api/download/models/445135?token=${TOKEN}" # flatChested
     #-"https://civitai.com/api/download/models/247083?token=${TOKEN}" # slimwomanXL
-    "https://civitai.com/api/download/models/131364?type=Model&format=SafeTensor&token=${TOKEN}" # AhegaoXL
-    "https://civitai.com/api/download/models/513933?type=Model&format=SafeTensor&token=${TOKEN}" # HDA_AhegaoXL
+    #"https://civitai.com/api/download/models/131364?type=Model&format=SafeTensor&token=${TOKEN}" # AhegaoXL
+    #"https://civitai.com/api/download/models/513933?type=Model&format=SafeTensor&token=${TOKEN}" # HDA_AhegaoXL
     #-"https://civitai.com/api/download/models/244808?type=Model&format=SafeTensor&token=${TOKEN}" # AllDisneyPrincessXL
     "https://civitai.com/api/download/models/394127?token=${TOKEN}" # realCumXL
     #"https://civitai.com/api/download/models/603935?type=Model&format=SafeTensor&token=${TOKEN}" # Reverse Fellatio LoRa | PonyX '1girl, 1boy, reverse fellatio, head back, deepthroat, uncensored'
@@ -127,17 +131,17 @@ LORA_MODELS=(
     #"https://civitai.com/api/download/models/562839?type=Model&format=SafeTensor&token=${TOKEN}" # Reverse_fellatio, side view, wide shot,
     ##"https://civitai.com/api/download/models/360315?token=${TOKEN}" # ringGagXL
     ##"https://civitai.com/api/download/models/150991?token=${TOKEN}" # bondageXL
-    "https://civitai.com/api/download/models/319375?type=Model&format=SafeTensor&token=${TOKEN}" # standingspreadeagle
-    "https://civitai.com/api/download/models/601249?type=Model&format=SafeTensor?token=${TOKEN}" # Slave_Submission_XL pony, '1woman, restrained, humiliation, embarrassed, public bondage, slave, submission, NSFW', 'bondage, wrist cuffs, ankle cuffs, collar, crotch rope, shibari', 'surprised, tearing_clothes, undressing, assisted exposure'
-    "https://civitai.com/api/download/models/687700?type=Model&format=SafeTensor?token=${TOKEN}" # 'Y' Slave_Submission pony diffusion V6
-    "https://civitai.com/api/download/models/592762?type=Model&format=SafeTensor?token=${TOKEN}" # Pillory (Sex + Pose)
-    "https://civitai.com/api/download/models/606348?type=Model&format=SafeTensor?token=${TOKEN}" # Testicle Sucking
-    "https://civitai.com/api/download/models/623563?type=Model&format=SafeTensor?token=${TOKEN}" # Human onahole
-    "https://civitai.com/api/download/models/653338?type=Model&format=SafeTensor?token=${TOKEN}" # POV Missionary with holding another's wrist 
-    "https://civitai.com/api/download/models/599632?type=Model&format=SafeTensor?token=${TOKEN}" # Standing Split Sex
-    "https://civitai.com/api/download/models/589398?type=Model&format=SafeTensor?token=${TOKEN}" # Pov Standing Doggy Style + Missionary (looking up)
-    "https://civitai.com/api/download/models/613577?type=Model&format=SafeTensor?token=${TOKEN}" # Spooning
-    "https://civitai.com/api/download/models/531389?type=Model&format=SafeTensor?token=${TOKEN}" # Public Exposure, Embarrassed
+    #"https://civitai.com/api/download/models/319375?type=Model&format=SafeTensor&token=${TOKEN}" # standingspreadeagle
+    #"https://civitai.com/api/download/models/601249?type=Model&format=SafeTensor?token=${TOKEN}" # Slave_Submission_XL pony, '1woman, restrained, humiliation, embarrassed, public bondage, slave, submission, NSFW', 'bondage, wrist cuffs, ankle cuffs, collar, crotch rope, shibari', 'surprised, tearing_clothes, undressing, assisted exposure'
+    #"https://civitai.com/api/download/models/687700?type=Model&format=SafeTensor?token=${TOKEN}" # 'Y' Slave_Submission pony diffusion V6
+    #"https://civitai.com/api/download/models/592762?type=Model&format=SafeTensor?token=${TOKEN}" # Pillory (Sex + Pose)
+    #"https://civitai.com/api/download/models/606348?type=Model&format=SafeTensor?token=${TOKEN}" # Testicle Sucking
+    #"https://civitai.com/api/download/models/623563?type=Model&format=SafeTensor?token=${TOKEN}" # Human onahole
+    #"https://civitai.com/api/download/models/653338?type=Model&format=SafeTensor?token=${TOKEN}" # POV Missionary with holding another's wrist 
+    #"https://civitai.com/api/download/models/599632?type=Model&format=SafeTensor?token=${TOKEN}" # Standing Split Sex
+    #"https://civitai.com/api/download/models/589398?type=Model&format=SafeTensor?token=${TOKEN}" # Pov Standing Doggy Style + Missionary (looking up)
+    #"https://civitai.com/api/download/models/613577?type=Model&format=SafeTensor?token=${TOKEN}" # Spooning
+    #"https://civitai.com/api/download/models/531389?type=Model&format=SafeTensor?token=${TOKEN}" # Public Exposure, Embarrassed
     #-"https://civitai.com/api/download/models/142000?token=${TOKEN}" # schoolBuilding
     ## SD1.5
     #----"https://civitai.com/api/download/models/123732" # zoomSlider
