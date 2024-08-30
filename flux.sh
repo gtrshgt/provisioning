@@ -24,7 +24,7 @@ EXTENSIONS=(
     #+"https://github.com/Coyote-A/ultimate-upscale-for-automatic1111"
     #"https://github.com/fkunn1326/openpose-editor"
     #"https://github.com/hnmr293/posex"
-    "https://github.com/d8ahazard/sd_dreambooth_extension"
+    #"https://github.com/d8ahazard/sd_dreambooth_extension"
     #"https://github.com/deforum-art/sd-webui-deforum"
     "https://github.com/adieyal/sd-dynamic-prompts"
     #"https://github.com/ototadana/sd-face-editor"
@@ -32,13 +32,13 @@ EXTENSIONS=(
     #"https://github.com/zanllp/sd-webui-infinite-image-browsing"
     #"https://github.com/hako-mikan/sd-webui-regional-prompter"
     #"https://github.com/Gourieff/sd-webui-reactor"
-    "https://github.com/Haoming02/sd-webui-vectorscope-cc"
+    #"https://github.com/Haoming02/sd-webui-vectorscope-cc"
     "https://github.com/pharmapsychotic/clip-interrogator-ext"
     #"https://github.com/Physton/sd-webui-prompt-all-in-one"
     #"https://github.com/KohakuBlueleaf/z-a1111-sd-webui-dtg" #DanTagGen to upsample prompts
     "https://github.com/DominikDoom/a1111-sd-webui-tagcomplete"
     #-"https://github.com/captainzero93/sd-webui-bubble-prompter.git" 
-    "https://github.com/hnmr293/sd-webui-llul" # local latent upscale
+    #"https://github.com/hnmr293/sd-webui-llul" # local latent upscale
     #_"https://github.com/Extraltodeus/test_my_prompt" # iterates leave one word out 
     #-"https://github.com/THUDM/ImageReward" # ImageReward Scorer
 )
