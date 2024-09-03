@@ -49,8 +49,8 @@ CHECKPOINT_MODELS=(
     #
     #"https://civitai.com/api/download/models/638137?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # GODDESS of Realism Pony_v1.0
     #-"https://civitai.com/api/download/models/578496?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # 2DN-Pony
-    "https://civitai.com/api/download/models/534642?token=${TOKEN}" # PonyRealism v2.1 VAE
-    #"https://civitai.com/api/download/models/511677?token=${TOKEN}" # Everclear V3
+    #"https://civitai.com/api/download/models/534642?token=${TOKEN}" # PonyRealism v2.1 VAE
+    "https://civitai.com/api/download/models/511677?token=${TOKEN}" # Everclear V3
     "https://civitai.com/api/download/models/706559?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # WAI-REAL_CN v10.0
     #"https://civitai.com/api/download/models/717529?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # WAI-REALMIX v9.0 
     #"https://civitai.com/api/download/models/714540?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # WAI-CUTE v6.0
