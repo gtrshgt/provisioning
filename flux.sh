@@ -46,7 +46,7 @@ EXTENSIONS=(
 CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/691639?type=Model&format=SafeTensor&size=pruned&fp=fp8&token=${TOKEN}" # FLUX Dev fp8
     #"https://civitai.com/api/download/models/699279?type=Model&format=SafeTensor&size=pruned&fp=fp8&token=${TOKEN}" # FLUX Schnell fp8
-    "https://civitai.com/api/download/models/743342?type=Model&format=Diffusers&size=full&fp=fp8&token=${TOKEN}" # Flux.1-Dev GGUF Q6K
+    "https://civitai.com/api/download/models/724149?type=Model&format=Diffusers&size=full&fp=fp8&token=${TOKEN}" # Flux.1-Dev GGUF  Q8 
 )
 
 LORA_MODELS=(
