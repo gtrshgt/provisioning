@@ -76,9 +76,9 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/541882?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Copax TimeLessXL, Nice sets w cloths, no pussy at all
     ###"https://civitai.com/api/download/models/646523?token=${TOKEN}" # epiCRealism XL Kiss , Perfect texture, ugly pussy ->softfantasy 
     "https://civitai.com/api/download/models/303498?token=${TOKEN}" # softfantasy_realmagic YES
-    "https://civitai.com/api/download/models/450105?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # STOIQO AfroditeXL 
-    "https://civitai.com/api/download/models/253250?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # SDXXXL V3, goodl for single command, bad bodies on instructions
-    "https://civitai.com/api/download/models/363977?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # OnlyForNsfw118 v2.0
+    #"https://civitai.com/api/download/models/450105?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # STOIQO AfroditeXL 
+    #"https://civitai.com/api/download/models/253250?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # SDXXXL V3, goodl for single command, bad bodies on instructions
+    #"https://civitai.com/api/download/models/363977?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # OnlyForNsfw118 v2.0
     #"https://civitai.com/api/download/models/228559?token=${TOKEN}" # Omnigen
     ###"https://civitai.com/api/download/models/490639?token=${TOKEN}" # iNiverseMixXL
     # SD1.5
