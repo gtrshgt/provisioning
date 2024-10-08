@@ -81,7 +81,7 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/363977?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # OnlyForNsfw118 v2.0
     #"https://civitai.com/api/download/models/228559?token=${TOKEN}" # Omnigen
     ###"https://civitai.com/api/download/models/490639?token=${TOKEN}" # iNiverseMixXL
-    "https://civitai.com/api/download/models/324958?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Pyro's NSFW SDXL
+    #"https://civitai.com/api/download/models/324958?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Pyro's NSFW SDXL
 )
 
 LORA_MODELS=(
