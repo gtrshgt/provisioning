@@ -83,6 +83,7 @@ CHECKPOINT_MODELS=(
     ###"https://civitai.com/api/download/models/490639?token=${TOKEN}" # iNiverseMixXL
     #"https://civitai.com/api/download/models/324958?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Pyro's NSFW SDXL
     "https://civitai.com/api/download/models/887555?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # NatViS: Natural Vision V2
+    "https://civitai.com/api/download/models/929239?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Big Lust v1.5
 )
 
 LORA_MODELS=(
