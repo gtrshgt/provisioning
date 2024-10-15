@@ -51,7 +51,7 @@ CHECKPOINT_MODELS=(
     #-"https://civitai.com/api/download/models/578496?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # 2DN-Pony
     #"https://civitai.com/api/download/models/534642?token=${TOKEN}" # PonyRealism v2.1 VAE
     #"https://civitai.com/api/download/models/511677?token=${TOKEN}" # Everclear V3
-    "https://civitai.com/api/download/models/706559?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # WAI-REAL_CN v10.0
+    #++"https://civitai.com/api/download/models/706559?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # WAI-REAL_CN v10.0
     #"https://civitai.com/api/download/models/717529?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # WAI-REALMIX v9.0 
     #"https://civitai.com/api/download/models/714540?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # WAI-CUTE v6.0
     #"https://civitai.com/api/download/models/693545?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Sevenof9_pony_real_mix Smart_Evolution
@@ -82,7 +82,7 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/228559?token=${TOKEN}" # Omnigen
     ###"https://civitai.com/api/download/models/490639?token=${TOKEN}" # iNiverseMixXL
     #"https://civitai.com/api/download/models/324958?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Pyro's NSFW SDXL
-    #"https://civitai.com/api/download/models/887555?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # NatViS: Natural Vision V2
+    "https://civitai.com/api/download/models/887555?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # NatViS: Natural Vision V2
     "https://civitai.com/api/download/models/929239?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Big Lust v1.5
 )
 
