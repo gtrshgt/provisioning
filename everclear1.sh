@@ -93,7 +93,7 @@ CHECKPOINT_MODELS=(
     "https://civitai.com/api/download/models/929239?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Big Lust v1.5
     "https://civitai.com/api/download/models/854747?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Big Lust NSFW - Explicit RAW V1.0 
     "https://civitai.com/api/download/models/926965?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # LUSTIFY! [SDXL NSFW V4.0 
-    "https://civitai.com/api/download/models/991916?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # bigASP V2.0 
+    ##"https://civitai.com/api/download/models/991916?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # bigASP V2.0 
 )
 
 LORA_MODELS=(
