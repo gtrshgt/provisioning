@@ -81,7 +81,7 @@ CHECKPOINT_MODELS=(
     ###"https://civitai.com/api/download/models/471120?token=${TOKEN}" # Juggernaut XL RunDiffiusionHyper, epiCRealism is better
     #"https://civitai.com/api/download/models/293240?type=Model&format=SafeTensor&size=pruned&fp=fp16?token=${TOKEN}" # Realism Engine SDXL
     #"https://civitai.com/api/download/models/541882?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Copax TimeLessXL, Nice sets w cloths, no pussy at all
-    #"https://civitai.com/api/download/models/646523?token=${TOKEN}" # epiCRealism XL Kiss , Perfect texture, ugly pussy ->softfantasy 
+    "https://civitai.com/api/download/models/646523?token=${TOKEN}" # epiCRealism XL Kiss , Perfect texture, ugly pussy ->softfantasy 
     #"https://civitai.com/api/download/models/303498?token=${TOKEN}" # softfantasy_realmagic YES
     #"https://civitai.com/api/download/models/450105?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # STOIQO AfroditeXL 
     #"https://civitai.com/api/download/models/253250?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # SDXXXL V3, goodl for single command, bad bodies on instructions
@@ -95,7 +95,7 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/926965?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # LUSTIFY! [SDXL NSFW V4.0 
     #####"https://civitai.com/api/download/models/969279?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Prefect Realistic XL v1.0 
     ##"https://civitai.com/api/download/models/1030766?type=Model&format=SafeTensor&size=pruned&fp=fp8&token=${TOKEN}" # The Araminta Experiment (SDXL+Flux) Fv2
-    "https://civitai.com/api/download/models/624942?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # The Araminta Experiment (SDXL+Flux) Cv6 SFW
+    #"https://civitai.com/api/download/models/624942?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # The Araminta Experiment (SDXL+Flux) Cv6 SFW
     ###"https://civitai.com/api/download/models/991916?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # bigASP V2.0  - messy unclear 
 )
 
