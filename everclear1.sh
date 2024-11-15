@@ -47,7 +47,7 @@ EXTENSIONS=(
 CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/699279?type=Model&format=SafeTensor&size=pruned&fp=fp8&token=${TOKEN}" # FLUX Schnell fp8
     #
-    #"https://civitai.com/api/download/models/638137?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # GODDESS of Realism Pony_v1.0
+    "https://civitai.com/api/download/models/638137?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # GODDESS of Realism Pony_v1.0
     #-"https://civitai.com/api/download/models/578496?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # 2DN-Pony
     #"https://civitai.com/api/download/models/534642?token=${TOKEN}" # PonyRealism v2.1 VAE
     #"https://civitai.com/api/download/models/914390?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # PonyRealism v2.2, non compatible sampler
@@ -81,7 +81,7 @@ CHECKPOINT_MODELS=(
     ###"https://civitai.com/api/download/models/471120?token=${TOKEN}" # Juggernaut XL RunDiffiusionHyper, epiCRealism is better
     #"https://civitai.com/api/download/models/293240?type=Model&format=SafeTensor&size=pruned&fp=fp16?token=${TOKEN}" # Realism Engine SDXL
     #"https://civitai.com/api/download/models/541882?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Copax TimeLessXL, Nice sets w cloths, no pussy at all
-    "https://civitai.com/api/download/models/646523?token=${TOKEN}" # epiCRealism XL Kiss , Perfect texture, ugly pussy ->softfantasy 
+    #"https://civitai.com/api/download/models/646523?token=${TOKEN}" # epiCRealism XL Kiss , Perfect texture 
     #"https://civitai.com/api/download/models/303498?token=${TOKEN}" # softfantasy_realmagic YES
     #"https://civitai.com/api/download/models/450105?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # STOIQO AfroditeXL 
     #"https://civitai.com/api/download/models/253250?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # SDXXXL V3, goodl for single command, bad bodies on instructions
