@@ -63,6 +63,7 @@ CHECKPOINT_MODELS=(
     #"https://huggingface.co/cyberdelia/CyberRealisticPony/resolve/main/CyberRealisticPony_V5.safetensors?download=true" # V5 backup (deleted from civit)
     #"https://civitai.com/api/download/models/629179?token=${TOKEN}" # boleromix
     #"https://civitai.com/api/download/models/968495?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # NoobAI-XL
+    "https://civitai.com/api/download/models/1070239?type=Model&format=SafeTensor&size=full&fp=bf16&token=${TOKEN}" # NoobAI-XL, v-pred-0.6
     #+++"https://civitai.com/api/download/models/978143?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Illustrious x Pony Mix
     #++"https://civitai.com/api/download/models/962317?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # LibrasIllustriousXL v3
     #"https://civitai.com/api/download/models/674533?type=Model&format=SafeTensor&size=pruned&fp=fp16?token=${TOKEN}" #  Godiva
