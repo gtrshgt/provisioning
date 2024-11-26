@@ -51,6 +51,7 @@ CHECKPOINT_MODELS=(
     #-"https://civitai.com/api/download/models/578496?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # 2DN-Pony
     #"https://civitai.com/api/download/models/534642?token=${TOKEN}" # PonyRealism v2.1 VAE
     #"https://civitai.com/api/download/models/914390?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # PonyRealism v2.2, non compatible sampler
+    "https://civitai.com/api/download/models/1048558?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # FaserCore, PonyV2_16
     #"https://civitai.com/api/download/models/511677?token=${TOKEN}" # Everclear V3
     #+"https://civitai.com/api/download/models/720342?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Everclear V4
     #"https://civitai.com/api/download/models/931577?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Anime,WAI-ANI-NSFW-PONYXL
@@ -98,6 +99,7 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/929239?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Big Lust v1.5, best
     "https://civitai.com/api/download/models/1081768?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Big Lust v1.6
     #"https://civitai.com/api/download/models/926965?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # LUSTIFY! [SDXL NSFW V4.0 
+    "https://civitai.com/api/download/models/1033818?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Jib Mix Realistic XL, V16X
     #####"https://civitai.com/api/download/models/969279?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Prefect Realistic XL v1.0 
     ##"https://civitai.com/api/download/models/1030766?type=Model&format=SafeTensor&size=pruned&fp=fp8&token=${TOKEN}" # The Araminta Experiment (SDXL+Flux) Fv2
     #"https://civitai.com/api/download/models/624942?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # The Araminta Experiment (SDXL+Flux) Cv6 SFW
