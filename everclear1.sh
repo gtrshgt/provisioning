@@ -64,9 +64,9 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/629179?token=${TOKEN}" # boleromix
     #"https://civitai.com/api/download/models/968495?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # NoobAI-XL
     #"https://civitai.com/api/download/models/1070239?type=Model&format=SafeTensor&size=full&fp=bf16&token=${TOKEN}" # NoobAI-XL, v-pred-0.6
-    "https://civitai.com/api/download/models/1015877?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Illustrious-XL SmoothFT Solid
+    "https://civitai.com/api/download/models/1015877?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Illustrious-XL SmoothFT Solid,++
     ##"https://civitai.com/api/download/models/1069801?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # illusob-xl-mahoroba-mix (Noobai v-pred0.5 Merge-Modell)  pred5_v1.1  
-    #+++"https://civitai.com/api/download/models/978143?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Illustrious x Pony Mix
+    "https://civitai.com/api/download/models/978143?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Illustrious x Pony Mix
     #++"https://civitai.com/api/download/models/962317?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # LibrasIllustriousXL v3
     #"https://civitai.com/api/download/models/674533?type=Model&format=SafeTensor&size=pruned&fp=fp16?token=${TOKEN}" #  Godiva
     #"https://civitai.com/api/download/models/932860?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # BABES_BY_STABLE_YOGI XL_V3 ,no ass
@@ -97,7 +97,7 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/887555?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # NatViS: Natural Vision V2
     #"https://civitai.com/api/download/models/929239?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Big Lust v1.5, best
     "https://civitai.com/api/download/models/1081768?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Big Lust v1.6
-    "https://civitai.com/api/download/models/926965?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # LUSTIFY! [SDXL NSFW V4.0 
+    #"https://civitai.com/api/download/models/926965?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # LUSTIFY! [SDXL NSFW V4.0 
     #####"https://civitai.com/api/download/models/969279?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Prefect Realistic XL v1.0 
     ##"https://civitai.com/api/download/models/1030766?type=Model&format=SafeTensor&size=pruned&fp=fp8&token=${TOKEN}" # The Araminta Experiment (SDXL+Flux) Fv2
     #"https://civitai.com/api/download/models/624942?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # The Araminta Experiment (SDXL+Flux) Cv6 SFW
