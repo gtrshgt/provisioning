@@ -108,6 +108,8 @@ LORA_MODELS=(
     ## Flux
     
     ## PonyXL
+    "https://civitai.com/api/download/models/365548?type=Model&format=SafeTensor?token=${TOKEN}" # Hogtied
+    "https://civitai.com/api/download/models/98583?type=Model&format=SafeTensor?token=${TOKEN}" # Fondle by hands 
     #"https://civitai.com/api/download/models/854747?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Big Lust NSFW - Explicit RAW V1.0 For BigLust 
     ##"https://civitai.com/api/download/models/520909?token=${TOKEN}" # bodyTypeSlider
     #"https://civitai.com/api/download/models/565308?type=Model&format=SafeTensor&token=${TOKEN}" # Undressing SD1/XL/PONY. 'Undressing'
