@@ -111,8 +111,10 @@ LORA_MODELS=(
     ## Flux
     
     ## PonyXL
-    "https://civitai.com/api/download/models/365548?type=Model&format=SafeTensor?token=${TOKEN}" # Hogtied
-    "https://civitai.com/api/download/models/98583?type=Model&format=SafeTensor?token=${TOKEN}" # Fondle by hands 
+    "https://huggingface.co/ByteDance/SDXL-Lightning/blob/main/sdxl_lightning_8step_lora.safetensors" # for BigLove 
+    "https://civitai.com/api/download/models/945805?token=${TOKEN}" # handfixer 
+    "https://civitai.com/api/download/models/365548?token=${TOKEN}" # Hogtied
+    "https://civitai.com/api/download/models/98583?token=${TOKEN}" # Fondle by hands 
     #"https://civitai.com/api/download/models/854747?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Big Lust NSFW - Explicit RAW V1.0 For BigLust 
     ##"https://civitai.com/api/download/models/520909?token=${TOKEN}" # bodyTypeSlider
     #"https://civitai.com/api/download/models/565308?type=Model&format=SafeTensor&token=${TOKEN}" # Undressing SD1/XL/PONY. 'Undressing'
@@ -140,7 +142,7 @@ LORA_MODELS=(
     #-"https://civitai.com/api/download/models/416689?token=${TOKEN}" # uncensoredPonyXL
     "https://civitai.com/api/download/models/448977?token=${TOKEN}" # ageSliderPonyXL
     ## SDXL
-    "https://civitai.com/api/download/models/471794?type=Model&format=SafeTensor?token=${TOKEN}" # "perfect hand"
+    "https://civitai.com/api/download/models/471794?token=${TOKEN}" # "perfect hand"
     ##"https://civitai.com/api/download/models/288407?token=${TOKEN}" # bodyWriting
     "https://civitai.com/api/download/models/240274?token=${TOKEN}" # zoomXL
     #"https://civitai.com/api/download/models/273996?token=${TOKEN}" # DPO_followPrompt
