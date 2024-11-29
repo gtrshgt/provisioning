@@ -116,6 +116,7 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/945805?token=${TOKEN}" # handfixer 
     "https://civitai.com/api/download/models/365548?token=${TOKEN}" # Hogtied
     "https://civitai.com/api/download/models/98583?token=${TOKEN}" # Fondle by hands 
+    "https://civitai.com/api/download/models/809818?token=${TOKEN}" # S-ana fist
     #"https://civitai.com/api/download/models/854747?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Big Lust NSFW - Explicit RAW V1.0 For BigLust 
     ##"https://civitai.com/api/download/models/520909?token=${TOKEN}" # bodyTypeSlider
     #"https://civitai.com/api/download/models/565308?type=Model&format=SafeTensor&token=${TOKEN}" # Undressing SD1/XL/PONY. 'Undressing'
