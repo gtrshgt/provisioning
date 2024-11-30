@@ -241,6 +241,7 @@ WILDCARDS=(
     "place.txt"
     "saction.txt"
     "saddon.txt"
+    "scenes1.txt"
 )
 
 ### DO NOT EDIT BELOW HERE UNLESS YOU KNOW WHAT YOU ARE DOING ###
