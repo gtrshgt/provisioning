@@ -190,6 +190,9 @@ EMBEDDINGS=(
     "https://civitai.com/api/download/models/95263" # EpiCRealism Negative - embedding
     #"https://civitai.com/api/download/models/30624?type=Model&format=PickleTensor&size=full&fp=fp16" # 'takagiza-1400' SD1.5
     "https://civitai.com/api/download/models/678576?type=Model&format=SafeTensor" # HDA_MissionaryXL_v1.2 
+    "https://civitai.com/api/download/models/1090011" # HDA_Doggystyle_GrabbingArmXL
+    "https://civitai.com/api/download/models/1068229" # HDA_HugFromBehindXL
+    "https://civitai.com/api/download/models/1079153" # HDA_FlexibleXL
 )
 
 VAE_MODELS=(
