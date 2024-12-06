@@ -193,6 +193,7 @@ EMBEDDINGS=(
     "https://civitai.com/api/download/models/1090011" # HDA_Doggystyle_GrabbingArmXL
     "https://civitai.com/api/download/models/1068229" # HDA_HugFromBehindXL
     "https://civitai.com/api/download/models/1079153" # HDA_FlexibleXL
+    "https://civitai.com/api/download/models/1059863" # Merger_lola_tanelle
 )
 
 VAE_MODELS=(
