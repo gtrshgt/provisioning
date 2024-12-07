@@ -246,6 +246,8 @@ WILDCARDS=(
     "saction.txt"
     "saddon.txt"
     "scenes1.txt"
+    "sethrough.txt"
+    "positions.txt"
 )
 
 ### DO NOT EDIT BELOW HERE UNLESS YOU KNOW WHAT YOU ARE DOING ###
