@@ -1,9 +1,18 @@
+dutch angle
+from above
+from behind
+from below
+from side
+multiple views
+sideways
+straight-on
+upside-down
+three quarter view
 Bird's Eye View
 Boom Shot
 Close-Up
 Crane Shot
 Dolly Shot
-Dutch Angle
 Extreme Close-Up
 Eye Level
 Fish-Eye Lens
@@ -15,6 +24,7 @@ Low Angle
 Oblique Angle
 Overhead Shot
 Point-of-View Shot
+pov
 Steadicam Shot
 Tilt Shot
 Tracking Shot
