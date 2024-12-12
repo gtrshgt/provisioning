@@ -105,3 +105,87 @@ A ruched mini dress
     - naked suspenders
     - naked tabard
     - naked towel
+   bra:
+      - adhesive bra
+      - belt bra
+      - bow bra
+      - bridgeless bra
+      - cupless bra
+      - frilled bra
+      - shelf bra
+      - sports bra
+      - strapless bra
+      - training bra
+      - front-tie bra
+      - front-hook bra
+    panties:
+      - bear panties
+      - rabbit panties
+      - cat panties
+      - checkered panties
+      - lace panties
+      - lace-trimmed panties
+      - plaid panties
+      - polka dot panties
+      - print panties
+      - strawberry panties
+      - striped panties
+      - vertical-striped panties
+      - latex panties
+      - leaf panties
+      - backless panties
+      - c-string
+      - crotchless panties
+      - strapless bottom
+      - loose panties
+      - micro panties
+      - lowleg panties
+      - highleg panties
+      - high-waist panties
+      - bow panties
+      - crotch seam
+      - frilled panties
+      - side-tie panties
+      - string panties
+    lingerie:
+      - Lingerie
+      - Babydoll
+      - Bodystocking
+      - Bustier
+      - Camisole
+      - Chemise
+      - Corset
+      - Fishnets
+      - garter straps
+      - Garter belt
+      - Lace
+      - Nightgown
+      - Strapless bottom
+      - Teddy
+      - Thighhighs
+      - Thong
+      - G-string
+      - Pearl thong
+      - Male Underwear
+      - Boxers
+      - Briefs
+      - Boxer briefs
+      - Bikini briefs
+      - Jockstrap
+      - Ball bra
+      - Penis sheath
+    bdsm:
+      - Blindfold
+      - Bodysuit
+      - Gimp suit
+      - Bondage mittens
+      - Bondage outfit
+      - Latex
+      - Monoglove
+    exposure:
+      - crotchless
+      - ass Cutout
+      - breastless clothes
+      - nippleless clothes
+      - revealing clothes
+      - reverse outfit
