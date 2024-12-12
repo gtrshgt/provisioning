@@ -42,6 +42,112 @@ A mesh crop top with high-waisted jeans and pointed-toe pumps
 A satin cami top with a mini skirt and sock boots
 A sheer maxi dress with a side slit and stiletto sandals
 A ruched mini dress
+      - school swimsuit
+      - bikini
+      - leaf bikini
+      - string bikini
+      - micro bikini
+      - side-tie bikini bottom
+      - lowleg bikini
+      - thong bikini
+      - venus bikini
+  pants:
+    - miniskirt
+    - overall skirt
+    - overskirt
+    - detached pants
+    - jeans
+    - cutoff jeans
+    - lowleg pants
+    - pants rolled up
+    - yoga pants
+    - pelvic curtain
+    - buruma
+    - sweatpants
+    - loincloth
+    - hakama skirt
+    - hakama short skirt
+    - kimono skirt
+    - bloomers
+    - buruma
+    - bell-bottoms
+    - capri pants
+    - petticoat
+    - shorts
+    - bike shorts
+    - denim shorts
+    - dolphin shorts
+    - gym shorts
+    - lowleg shorts
+    - micro shorts
+    - short shorts
+    - shorts under skirt
+    - skirt
+    - bubble skirt
+    - high-waist skirt
+    - high-low skirt
+    - long skirt
+    - lowleg skirt
+    - microskirt
+    - plaid skirt
+    - pleated skirt
+    - showgirl skirt
+    - suspender skirt
+    - tutu
+  shirt:
+    - blouse
+    - frilled shirt
+    - sleeveless shirt
+    - bustier
+    - tunic
+    - crop top
+    - camisole
+    - fur coat
+    - fur-trimmed coat
+    - peacoat
+    - transparent raincoat
+    - winter coat
+    - compression shirt
+    - corset
+    - dress
+    - halterneck
+    - criss-cross halter
+    - halterneck
+    - hoodie
+    - jacket
+    - blazer
+    - cropped jacket
+    - sash
+    - shoulder sash
+    - stole
+    - shirt
+    - collared shirt
+    - dress shirt
+    - off-shoulder shirt
+    - sleeveless shirt
+    - striped shirt
+    - t-shirt
+    - shrug
+    - surcoat
+    - sweater
+    - pullover
+    - sleeveless turtleneck
+    - sweater dress
+    - ribbed sweater
+    - tabard
+    - tailcoat
+    - tank top
+    - stringer
+    - tube top
+    - bandeau
+    - underbust
+    - vest
+    - sweater vest
+    - waistcoat
+    - Midriff sarashi
+    - Chest sarashi
+    - Budget sarashi
+    - Undone sarashi
   partial:
     - clothing aside
     - clothes down
