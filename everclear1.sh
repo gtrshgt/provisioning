@@ -250,6 +250,7 @@ WILDCARDS=(
     "scenes1.txt"
     "seethrough.txt"
     "positions.txt"
+    "gesture.txt"
 )
 
 ### DO NOT EDIT BELOW HERE UNLESS YOU KNOW WHAT YOU ARE DOING ###
