@@ -251,6 +251,7 @@ WILDCARDS=(
     "seethrough.txt"
     "positions.txt"
     "gesture.txt"
+    "pose.txt"
 )
 
 ### DO NOT EDIT BELOW HERE UNLESS YOU KNOW WHAT YOU ARE DOING ###
