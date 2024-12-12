@@ -42,3 +42,66 @@ A mesh crop top with high-waisted jeans and pointed-toe pumps
 A satin cami top with a mini skirt and sock boots
 A sheer maxi dress with a side slit and stiletto sandals
 A ruched mini dress
+  partial:
+    - clothing aside
+    - clothes down
+    - open clothes
+    - revealing clothes
+    - see-through clothes
+    - unbuttoned
+    - undressing
+    - unfastened
+    - untied
+    - untying
+    - unzipped
+    - unzipping
+  arms:
+    - armpits
+    - armpit cutout
+    - bare arms
+    - arm cutout
+    - bare shoulders
+    - off shoulder
+    - shoulder cutout
+    - sleeves rolled up
+    - sleeveless
+    - low-cut armhole
+    - sleeves pushed up
+    - sleeves rolled up
+  chest:
+    - center opening
+    - shirt lift
+    - shirt pull
+    - shirt slip
+    - top pull
+    - breastless clothes
+    - one breast out
+    - breast slip
+    - breasts out
+    - bra lift
+    - no bra
+    - bra pull
+    - topless
+    - cleavage
+    - sideboob
+    - underboob
+  nakedclothes:
+    - naked apron
+    - nearly naked apron
+    - naked bandage
+    - naked cape
+    - naked capelet
+    - naked chocolate
+    - naked cloak
+    - naked coat
+    - naked hoodie
+    - naked jacket
+    - naked overalls
+    - naked ribbon
+    - naked robe
+    - naked scarf
+    - naked sheet
+    - naked shirt
+    - naked suspenders
+    - naked tabard
+    - naked towel
