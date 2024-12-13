@@ -256,6 +256,7 @@ WILDCARDS=(
     "positions.txt"
     "gesture.txt"
     "pose.txt"
+    "lighting.txt"
 )
 
 ### DO NOT EDIT BELOW HERE UNLESS YOU KNOW WHAT YOU ARE DOING ###
