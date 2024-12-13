@@ -121,6 +121,7 @@ LORA_MODELS=(
     "https://civitai.com/api/download/models/680080?token=${TOKEN}" # otm gag
     "https://civitai.com/api/download/models/98583?token=${TOKEN}" # Fondle by hands 
     "https://civitai.com/api/download/models/809818?token=${TOKEN}" # self fisting,anal masturbation,anal
+    "https://civitai.com/api/download/models/458134?token=${TOKEN}" # SuperPetite
     #"https://civitai.com/api/download/models/854747?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Big Lust NSFW - Explicit RAW V1.0 For BigLust 
     ##"https://civitai.com/api/download/models/520909?token=${TOKEN}" # bodyTypeSlider
     #"https://civitai.com/api/download/models/565308?type=Model&format=SafeTensor&token=${TOKEN}" # Undressing SD1/XL/PONY. 'Undressing'
