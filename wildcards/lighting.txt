@@ -1,11 +1,16 @@
-        - dim lighting
-        - soft lighting
-        - natural lighting
-        - candle-lit
-        - dramatic lighting
-        - volumetric lighting
-        - cinematic lighting
-        - bad lighting, one light source, (dark shadows:1.6), dim lighting
-        - dappled light, dappled sunlight
-sunlight
+dim lighting
+soft lighting
+night 
+early morning
+natural lighting
+studio lighting
+candle-lit
+dramatic lighting
+volumetric lighting
+cinematic lighting
+bad lighting, one light source, (dark shadows:1.6), dim lighting
+dappled light, dappled sunlight
+(sunlight)
+sunrise
+sunset
 sun rays
