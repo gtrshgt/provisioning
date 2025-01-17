@@ -87,7 +87,7 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/515456?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # RealPony real_anime, jap
     ##"https://civitai.com/api/download/models/399640?token=${TOKEN}" # EverclearPNYbyZovya
     ##########"https://civitai.com/api/download/models/324524?token=${TOKEN}" # AutismMixXL_confetti
-    "https://civitai.com/api/download/models/1268584?type=Model&format=SafeTensor&size=full&fp=fp32&token=${TOKEN}" # Fn-Mix Noob XL
+    "https://civitai.com/api/download/models/1268584?type=Model&format=SafeTensor&size=full&fp=fp32&token=${TOKEN}" #+++ Fn-Mix Noob XL
     #
     #"https://civitai.com/api/download/models/450146?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # PD for Anime
     #
@@ -106,7 +106,7 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/887555?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # NatViS: Natural Vision V2
     #"https://civitai.com/api/download/models/929239?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Big Lust v1.5, best
     "https://civitai.com/api/download/models/1081768?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Big Lust v1.6
-    "https://civitai.com/api/download/models/1291566?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # PhonyPonyPepperoni - realFeel 
+    ###"https://civitai.com/api/download/models/1291566?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # PhonyPonyPepperoni - realFeel 
     #++"https://civitai.com/api/download/models/1094291?type=Model&format=SafeTensor&size=pruned&fp=fp16token=${TOKEN}" # LUSTIFY! Endgame v5
     #"https://civitai.com/api/download/models/926965?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # LUSTIFY! [SDXL NSFW V4.0 
     #++"https://civitai.com/api/download/models/1033818?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Jib Mix Realistic XL, V16X
