@@ -47,7 +47,7 @@ EXTENSIONS=(
 CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/699279?type=Model&format=SafeTensor&size=pruned&fp=fp8&token=${TOKEN}" # FLUX Schnell fp8
     #
-    "https://civitai.com/api/download/models/1277531?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # GoR_PONY_v5ilustros_H+VAE!
+    #"https://civitai.com/api/download/models/1277531?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # GoR_PONY_v5ilustros_H+VAE!
     #"https://civitai.com/api/download/models/638137?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # GODDESS of Realism Pony_v1.0
     #-"https://civitai.com/api/download/models/578496?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # 2DN-Pony
     #"https://civitai.com/api/download/models/534642?token=${TOKEN}" # PonyRealism v2.1 VAE
