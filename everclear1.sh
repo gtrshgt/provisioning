@@ -48,7 +48,7 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/699279?type=Model&format=SafeTensor&size=pruned&fp=fp8&token=${TOKEN}" # FLUX Schnell fp8
     #
     #"https://civitai.com/api/download/models/1277531?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # GoR_PONY_v5ilustros_H+VAE!
-    "https://civitai.com/api/download/models/1087831?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # GoR_PONY_v4photo+VAE!b
+    #+"https://civitai.com/api/download/models/1087831?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # GoR_PONY_v4photo+VAE!b
     #"https://civitai.com/api/download/models/638137?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # GODDESS of Realism Pony_v1.0
     #-"https://civitai.com/api/download/models/578496?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # 2DN-Pony
     #"https://civitai.com/api/download/models/534642?token=${TOKEN}" # PonyRealism v2.1 VAE
@@ -57,7 +57,7 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/511677?token=${TOKEN}" # Everclear V3
     #++"https://civitai.com/api/download/models/720342?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Everclear V4
     #"https://civitai.com/api/download/models/1077585?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Big Love PonyV2
-    #++"https://civitai.com/api/download/models/1183765?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # WAI-NSFW-illustrious-SDXL , v8
+    "https://civitai.com/api/download/models/1183765?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # WAI-NSFW-illustrious-SDXL , v8
     #"https://civitai.com/api/download/models/931577?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Anime,WAI-ANI-NSFW-PONYXL
     #"https://civitai.com/api/download/models/966009?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # WAI-REAL_CN v13
     #"https://civitai.com/api/download/models/706559?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # WAI-REAL_CN v10.0
