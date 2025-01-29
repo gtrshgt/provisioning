@@ -57,7 +57,7 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/511677?token=${TOKEN}" # Everclear V3
     #++"https://civitai.com/api/download/models/720342?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Everclear V4
     #"https://civitai.com/api/download/models/1077585?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Big Love PonyV2
-    "https://civitai.com/api/download/models/1183765?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # WAI-NSFW-illustrious-SDXL , v8
+    #"https://civitai.com/api/download/models/1183765?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # WAI-NSFW-illustrious-SDXL , v8
     #"https://civitai.com/api/download/models/931577?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Anime,WAI-ANI-NSFW-PONYXL
     #"https://civitai.com/api/download/models/966009?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # WAI-REAL_CN v13
     #"https://civitai.com/api/download/models/706559?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # WAI-REAL_CN v10.0
@@ -65,6 +65,7 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/714540?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # WAI-CUTE v6.0
     #"https://civitai.com/api/download/models/693545?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Sevenof9_pony_real_mix Smart_Evolution
     #"https://civitai.com/api/download/models/680915?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # CyberRealistic Pony , V6.1
+    "https://civitai.com/api/download/models/1346181?type=Model&format=SafeTensor&size=pruned&fp=fp16v&token=${TOKEN}" # CyberRealistic Pony , v8  
     #"https://huggingface.co/cyberdelia/CyberRealisticPony/resolve/main/CyberRealisticPony_V5.safetensors?download=true" # V5 backup (deleted from civit)
     #"https://civitai.com/api/download/models/629179?token=${TOKEN}" # boleromix
     #"https://civitai.com/api/download/models/968495?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # NoobAI-XL
