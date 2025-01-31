@@ -90,7 +90,8 @@ CHECKPOINT_MODELS=(
     ##"https://civitai.com/api/download/models/399640?token=${TOKEN}" # EverclearPNYbyZovya
     ##########"https://civitai.com/api/download/models/324524?token=${TOKEN}" # AutismMixXL_confetti
     #"https://civitai.com/api/download/models/1268584?type=Model&format=SafeTensor&size=full&fp=fp32&token=${TOKEN}" #+++ Fn-Mix Noob XL
-    "https://civitai.com/api/download/models/1130140?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # RouWei v0.6.1.
+    #"https://civitai.com/api/download/models/1130140?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # RouWei v0.6.1.
+    "https://civitai.com/api/download/models/1190245?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # IllusionBreed cutv2.0
     #
     #"https://civitai.com/api/download/models/450146?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # PD for Anime
     #
