@@ -78,7 +78,7 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/1145511?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # ZUKI anime Ill
     ##"https://civitai.com/api/download/models/1069801?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # illusob-xl-mahoroba-mix (Noobai v-pred0.5 Merge-Modell)  pred5_v1.1  
     #++"https://civitai.com/api/download/models/978143?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Illustrious x Pony Mix
-    #++"https://civitai.com/api/download/models/962317?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # LibrasIllustriousXL v3
+    "https://civitai.com/api/download/models/962317?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # LibrasIllustriousXL v3
     #"https://civitai.com/api/download/models/674533?type=Model&format=SafeTensor&size=pruned&fp=fp16?token=${TOKEN}" #  Godiva
     #"https://civitai.com/api/download/models/932860?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # BABES_BY_STABLE_YOGI XL_V3 ,no ass
     #https://civitai.com/api/download/models/637965 # GoodFit-Pony
@@ -92,7 +92,7 @@ CHECKPOINT_MODELS=(
     ##########"https://civitai.com/api/download/models/324524?token=${TOKEN}" # AutismMixXL_confetti
     #"https://civitai.com/api/download/models/1268584?type=Model&format=SafeTensor&size=full&fp=fp32&token=${TOKEN}" #+++ Fn-Mix Noob XL
     #"https://civitai.com/api/download/models/1130140?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # RouWei v0.6.1.
-    "https://civitai.com/api/download/models/1190245?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # IllusionBreed cutv2.0
+    #"https://civitai.com/api/download/models/1190245?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # IllusionBreed cutv2.0
     #
     #"https://civitai.com/api/download/models/450146?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # PD for Anime
     #
