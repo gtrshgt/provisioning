@@ -49,6 +49,7 @@ CHECKPOINT_MODELS=(
     #
     #"https://civitai.com/api/download/models/1277531?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # GoR_PONY_v5ilustros_H+VAE!
     #+"https://civitai.com/api/download/models/1087831?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # GoR_PONY_v4photo+VAE!b
+    "https://civitai.com/api/download/models/1410250?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # GoR_v6ILXL+VAE
     #"https://civitai.com/api/download/models/638137?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # GODDESS of Realism Pony_v1.0
     #-"https://civitai.com/api/download/models/578496?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # 2DN-Pony
     #"https://civitai.com/api/download/models/534642?token=${TOKEN}" # PonyRealism v2.1 VAE
@@ -70,7 +71,7 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/629179?token=${TOKEN}" # boleromix
     #"https://civitai.com/api/download/models/968495?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # NoobAI-XL
     #"https://civitai.com/api/download/models/1070239?type=Model&format=SafeTensor&size=full&fp=bf16&token=${TOKEN}" # NoobAI-XL, v-pred-0.6
-    "https://civitai.com/api/download/models/1367989?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Ikastrious vv9.2 
+    #+"https://civitai.com/api/download/models/1367989?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Ikastrious vv9.2 
     #+"https://civitai.com/api/download/models/1015877?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Illustrious-XL SmoothFT Solid,++
     #+"https://civitai.com/api/download/models/1061268?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # NTR Illustrious-Noob ++++
     #"https://civitai.com/api/download/models/1151981?type=Model&format=SafeTensor&size=pruned&fp=bf16&token=${TOKEN}" # T-illunai3 
@@ -78,8 +79,8 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/1145511?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # ZUKI anime Ill
     ##"https://civitai.com/api/download/models/1069801?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # illusob-xl-mahoroba-mix (Noobai v-pred0.5 Merge-Modell)  pred5_v1.1  
     #++"https://civitai.com/api/download/models/978143?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Illustrious x Pony Mix
-    "https://civitai.com/api/download/models/962317?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # LibrasIllustriousXL v3
-    #"https://civitai.com/api/download/models/674533?type=Model&format=SafeTensor&size=pruned&fp=fp16?token=${TOKEN}" #  Godiva
+    #"https://civitai.com/api/download/models/962317?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # LibrasIllustriousXL v3
+    #+"https://civitai.com/api/download/models/674533?type=Model&format=SafeTensor&size=pruned&fp=fp16?token=${TOKEN}" #  Godiva
     #"https://civitai.com/api/download/models/932860?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # BABES_BY_STABLE_YOGI XL_V3 ,no ass
     #https://civitai.com/api/download/models/637965 # GoodFit-Pony
     #"https://civitai.com/api/download/models/619549?token=${TOKEN}" # DucHaiten Pony-Real, checking
