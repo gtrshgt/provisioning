@@ -59,7 +59,7 @@ CHECKPOINT_MODELS=(
     #++"https://civitai.com/api/download/models/720342?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Everclear V4
     #"https://civitai.com/api/download/models/1077585?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Big Love PonyV2
     #"https://civitai.com/api/download/models/1183765?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # WAI-NSFW-illustrious-SDXL , v8
-    "https://civitai.com/api/download/models/1404987?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # WAI-FXXK_ILL-XL
+    #"https://civitai.com/api/download/models/1404987?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # WAI-FXXK_ILL-XL
     #"https://civitai.com/api/download/models/931577?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Anime,WAI-ANI-NSFW-PONYXL
     #"https://civitai.com/api/download/models/966009?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # WAI-REAL_CN v13
     #"https://civitai.com/api/download/models/706559?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # WAI-REAL_CN v10.0
@@ -76,7 +76,7 @@ CHECKPOINT_MODELS=(
     #+"https://civitai.com/api/download/models/1015877?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Illustrious-XL SmoothFT Solid,++
     #+"https://civitai.com/api/download/models/1061268?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # NTR Illustrious-Noob ++++
     #"https://civitai.com/api/download/models/1151981?type=Model&format=SafeTensor&size=pruned&fp=bf16&token=${TOKEN}" # T-illunai3 
-    #+"https://civitai.com/api/download/models/1137685?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # ZUKI cute Ill
+    "https://civitai.com/api/download/models/1137685?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # ZUKI cute Ill
     #"https://civitai.com/api/download/models/1145511?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # ZUKI anime Ill
     ##"https://civitai.com/api/download/models/1069801?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # illusob-xl-mahoroba-mix (Noobai v-pred0.5 Merge-Modell)  pred5_v1.1  
     #++"https://civitai.com/api/download/models/978143?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Illustrious x Pony Mix
