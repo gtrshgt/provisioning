@@ -74,10 +74,10 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/1070239?type=Model&format=SafeTensor&size=full&fp=bf16&token=${TOKEN}" # NoobAI-XL, v-pred-0.6
     #+"https://civitai.com/api/download/models/1367989?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Ikastrious vv9.2 
     #+"https://civitai.com/api/download/models/1015877?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Illustrious-XL SmoothFT Solid,++
-    #+"https://civitai.com/api/download/models/1061268?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # NTR Illustrious-Noob ++++
+    "https://civitai.com/api/download/models/1061268?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # NTR Illustrious-Noob ++++
     #"https://civitai.com/api/download/models/1151981?type=Model&format=SafeTensor&size=pruned&fp=bf16&token=${TOKEN}" # T-illunai3 
-    "https://civitai.com/api/download/models/1487987?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # SilvermoonMix-Illustrious-Evolved v2.0
-    "https://civitai.com/api/download/models/1494740?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Obsession v1.1
+    ###"https://civitai.com/api/download/models/1487987?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # SilvermoonMix-Illustrious-Evolved v2.0
+    ###"https://civitai.com/api/download/models/1494740?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Obsession v1.1
     #+"https://civitai.com/api/download/models/1137685?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # ZUKI cute Ill
     #"https://civitai.com/api/download/models/1145511?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # ZUKI anime Ill
     #?"https://civitai.com/api/download/models/1476700?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Fn-Mix Noob XL
