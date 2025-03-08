@@ -263,6 +263,7 @@ WILDCARDS=(
     "national.txt"
     "object_pose.txt"
     "outfit.txt"
+    "outfits2.txt"
     "photo_angle.txt"
     "place.txt"
     "place2.txt"
