@@ -274,7 +274,7 @@ WILDCARDS=(
     "gesture.txt"
     "pose.txt"
     "lighting.txt"
-    "bscene.txt"
+    "bsecenes.txt"
     "tropical_island_scene.txt"
 )
 
