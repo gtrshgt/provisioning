@@ -79,7 +79,7 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/1151981?type=Model&format=SafeTensor&size=pruned&fp=bf16&token=${TOKEN}" # T-illunai3 
     ###"https://civitai.com/api/download/models/1487987?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # SilvermoonMix-Illustrious-Evolved v2.0
     ###"https://civitai.com/api/download/models/1494740?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Obsession v1.1
-    "https://civitai.com/api/download/models/1513176?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # WaiS0ftMix v2 
+    #--"https://civitai.com/api/download/models/1513176?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # WaiS0ftMix v2 
     #+"https://civitai.com/api/download/models/1137685?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # ZUKI cute Ill
     #"https://civitai.com/api/download/models/1145511?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # ZUKI anime Ill
     #?"https://civitai.com/api/download/models/1476700?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Fn-Mix Noob XL
@@ -119,7 +119,7 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/929239?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Big Lust v1.5, best
     "https://civitai.com/api/download/models/1081768?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Big Lust v1.6
     ###"https://civitai.com/api/download/models/1291566?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # PhonyPonyPepperoni - realFeel 
-    "https://civitai.com/api/download/models/1510911?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # LUSTIFY! OLT
+    #+"https://civitai.com/api/download/models/1510911?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # LUSTIFY! OLT
     #++"https://civitai.com/api/download/models/1094291?type=Model&format=SafeTensor&size=pruned&fp=fp16token=${TOKEN}" # LUSTIFY! Endgame v5
     #"https://civitai.com/api/download/models/926965?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # LUSTIFY! [SDXL NSFW V4.0 
     #++"https://civitai.com/api/download/models/1033818?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Jib Mix Realistic XL, V16X
