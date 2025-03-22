@@ -124,6 +124,7 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/926965?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # LUSTIFY! [SDXL NSFW V4.0 
     #++"https://civitai.com/api/download/models/1033818?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Jib Mix Realistic XL, V16X
     #####"https://civitai.com/api/download/models/969279?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Prefect Realistic XL v1.0 
+    "https://civitai.com/api/download/models/1536255?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Araminta v5 
     ##"https://civitai.com/api/download/models/1030766?type=Model&format=SafeTensor&size=pruned&fp=fp8&token=${TOKEN}" # The Araminta Experiment (SDXL+Flux) Fv2
     #"https://civitai.com/api/download/models/624942?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # The Araminta Experiment (SDXL+Flux) Cv6 SFW
     ###"https://civitai.com/api/download/models/991916?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # bigASP V2.0  - messy unclear 
