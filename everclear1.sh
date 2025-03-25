@@ -118,7 +118,7 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/887555?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # NatViS: Natural Vision V2
     #"https://civitai.com/api/download/models/929239?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Big Lust v1.5, best
     "https://civitai.com/api/download/models/1081768?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Big Lust v1.6
-    "https://civitai.com/api/download/models/1550582?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # LustiMix rebirth
+    #"https://civitai.com/api/download/models/1550582?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # LustiMix rebirth
     "https://civitai.com/api/download/models/1541389?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Bond alpha
     ###"https://civitai.com/api/download/models/1291566?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # PhonyPonyPepperoni - realFeel 
     #+"https://civitai.com/api/download/models/1510911?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # LUSTIFY! OLT
@@ -126,7 +126,7 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/926965?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # LUSTIFY! [SDXL NSFW V4.0 
     #++"https://civitai.com/api/download/models/1033818?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Jib Mix Realistic XL, V16X
     #####"https://civitai.com/api/download/models/969279?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Prefect Realistic XL v1.0 
-    "https://civitai.com/api/download/models/1536255?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Araminta v5 
+    #"https://civitai.com/api/download/models/1536255?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Araminta v5 
     ##"https://civitai.com/api/download/models/1030766?type=Model&format=SafeTensor&size=pruned&fp=fp8&token=${TOKEN}" # The Araminta Experiment (SDXL+Flux) Fv2
     #"https://civitai.com/api/download/models/624942?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # The Araminta Experiment (SDXL+Flux) Cv6 SFW
     ###"https://civitai.com/api/download/models/991916?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # bigASP V2.0  - messy unclear 
