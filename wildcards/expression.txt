@@ -1,20 +1,25 @@
 Smile
 Laughing
-kind_smile
+kind smile
+Teasing smile
+seductive smile
 :d
 ;d
 Grin
-Teasing_smile
-seductive_smile
 Smirk
 Giggling
 Smug
-naughty_face
+horny
+naughty face
 Evil smile
-crazy_smile
+crazy smile
 Happy
-happy_birthday
-happy_halloween
-happy_new_year
-happy_tears
-happy_valentine
+happy halloween
+happy tears
+happy valentine
+suffering
+pain
+afraid
+blush
+organsm face
+ahegao
