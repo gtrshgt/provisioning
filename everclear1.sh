@@ -283,6 +283,8 @@ WILDCARDS=(
     "lighting.txt"
     "bsecenes.txt"
     "tropical_island_scenes.txt"
+    "things.txt"
+    "things2.txt"    
 )
 
 ### DO NOT EDIT BELOW HERE UNLESS YOU KNOW WHAT YOU ARE DOING ###
