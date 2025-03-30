@@ -259,6 +259,7 @@ WILDCARDS=(
     "actress.txt"
     "assesoir.txt"
     "basescene.txt"
+    "body.txt"
     "breasts.txt"
     "expression.txt"
     "expression_1.txt"
