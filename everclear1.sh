@@ -75,7 +75,7 @@ CHECKPOINT_MODELS=(
     #+"https://civitai.com/api/download/models/1367989?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Ikastrious vv9.2 
     #+"https://civitai.com/api/download/models/1015877?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Illustrious-XL SmoothFT Solid,++
     #+"https://civitai.com/api/download/models/1061268?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # NTR Illustrious-Noob ++++
-    "https://civitai.com/api/download/models/1522490?type=Model&format=SafeTensor&size=pruned&fp=bf16&token=${TOKEN}" # Unholy Desire v3
+    #+"https://civitai.com/api/download/models/1522490?type=Model&format=SafeTensor&size=pruned&fp=bf16&token=${TOKEN}" # Unholy Desire v3
     #"https://civitai.com/api/download/models/1151981?type=Model&format=SafeTensor&size=pruned&fp=bf16&token=${TOKEN}" # T-illunai3 
     ###"https://civitai.com/api/download/models/1487987?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # SilvermoonMix-Illustrious-Evolved v2.0
     ###"https://civitai.com/api/download/models/1494740?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Obsession v1.1
@@ -116,8 +116,8 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/1006775?type=Model&format=SafeTensor&size=full&fp=fp8&fp=fp16&token=${TOKEN}" # iNiverseMixXL F1D Real, not loading
     #"https://civitai.com/api/download/models/324958?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Pyro's NSFW SDXL
     #"https://civitai.com/api/download/models/887555?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # NatViS: Natural Vision V2
-    #"https://civitai.com/api/download/models/929239?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Big Lust v1.5, best
-    #+"https://civitai.com/api/download/models/1081768?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Big Lust v1.6
+    #"https://civitai.com/api/download/models/929239?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Big Lust v1.5,
+    #+"https://civitai.com/api/download/models/1081768?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Big Lust v1.6 Best
     #"https://civitai.com/api/download/models/1550582?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # LustiMix rebirth
     "https://civitai.com/api/download/models/1541389?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Bond alpha
     ###"https://civitai.com/api/download/models/1291566?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # PhonyPonyPepperoni - realFeel 
@@ -131,6 +131,7 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/624942?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # The Araminta Experiment (SDXL+Flux) Cv6 SFW
     ###"https://civitai.com/api/download/models/991916?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # bigASP V2.0  - messy unclear
     "https://civitai.com/api/download/models/1556348?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # PhotoArt v5 
+    "https://civitai.com/api/download/models/1582496?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Fuchsia XL (Photo) v10
 )
 
 LORA_MODELS=(
