@@ -132,7 +132,7 @@ CHECKPOINT_MODELS=(
     ###"https://civitai.com/api/download/models/991916?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # bigASP V2.0  - messy unclear
     "https://civitai.com/api/download/models/1556348?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # PhotoArt v5 
     "https://civitai.com/api/download/models/1582496?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Fuchsia XL (Photo) v10
-    "https://civitai.com/api/download/models/1605480?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # EpicJoy Full
+    #---"https://civitai.com/api/download/models/1605480?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # EpicJoy Full, 12gb Not loading
 )
 
 LORA_MODELS=(
