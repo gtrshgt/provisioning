@@ -29,6 +29,7 @@ EXTENSIONS=(
     "https://github.com/adieyal/sd-dynamic-prompts"
     #"https://github.com/ototadana/sd-face-editor"
     "https://github.com/AlUlkesh/stable-diffusion-webui-images-browser"
+    "https://github.com/AIrjen/OneButtonPrompt"
     #"https://github.com/zanllp/sd-webui-infinite-image-browsing"
     #"https://github.com/hako-mikan/sd-webui-regional-prompter"
     #"https://github.com/Gourieff/sd-webui-reactor"
