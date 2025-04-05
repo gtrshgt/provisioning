@@ -133,7 +133,7 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/624942?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # The Araminta Experiment (SDXL+Flux) Cv6 SFW
     ###"https://civitai.com/api/download/models/991916?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # bigASP V2.0  - messy unclear
     #++"https://civitai.com/api/download/models/1556348?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # PhotoArt v5 Great
-    "https://civitai.com/api/download/models/1461059?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Realistic Freedom Omega
+    #"https://civitai.com/api/download/models/1461059?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Realistic Freedom Omega, ok
     "https://civitai.com/api/download/models/1584286?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # chirps v1 Great 
     ##"https://civitai.com/api/download/models/1605744?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # fennfoto_XL v1 
     #--"https://civitai.com/api/download/models/1582496?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Fuchsia XL (Photo) v10
