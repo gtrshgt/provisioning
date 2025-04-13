@@ -271,7 +271,6 @@ WILDCARDS=(
     "breasts.txt"
     "expression.txt"
     "expression_1.txt"
-    "expression5.txt"
     "expression3.txt"    
     "facetype.txt"
     "fototype.txt"
