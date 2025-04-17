@@ -119,10 +119,10 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/324958?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Pyro's NSFW SDXL
     #"https://civitai.com/api/download/models/887555?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # NatViS: Natural Vision V2
     #"https://civitai.com/api/download/models/929239?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Big Lust v1.5,
-    "https://civitai.com/api/download/models/1081768?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Big Lust v1.6 Great
+    #++"https://civitai.com/api/download/models/1081768?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Big Lust v1.6 Great
     #"https://civitai.com/api/download/models/1620724?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Big Lust v1.7, 1.6 is better
     #"https://civitai.com/api/download/models/1550582?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # LustiMix rebirth
-    "https://civitai.com/api/download/models/1541389?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Bond alpha Great
+    #++"https://civitai.com/api/download/models/1541389?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Bond alpha Great
     ###"https://civitai.com/api/download/models/1291566?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # PhonyPonyPepperoni - realFeel 
     #+"https://civitai.com/api/download/models/1510911?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # LUSTIFY! OLT
     #++"https://civitai.com/api/download/models/1094291?type=Model&format=SafeTensor&size=pruned&fp=fp16token=${TOKEN}" # LUSTIFY! Endgame v5
@@ -135,7 +135,7 @@ CHECKPOINT_MODELS=(
     ###"https://civitai.com/api/download/models/991916?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # bigASP V2.0  - messy unclear
     "https://civitai.com/api/download/models/1556348?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # PhotoArt v5 Great
     #"https://civitai.com/api/download/models/1461059?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Realistic Freedom Omega, ok
-    "https://civitai.com/api/download/models/1584286?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # chirps v1 Great 
+    #++"https://civitai.com/api/download/models/1584286?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # chirps v1 Great 
     #--"https://civitai.com/api/download/models/1605744?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # fennfoto_XL v1 
     #--"https://civitai.com/api/download/models/1582496?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Fuchsia XL (Photo) v10
     #---"https://civitai.com/api/download/models/1605480?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # EpicJoy Full, 12gb Not loading
