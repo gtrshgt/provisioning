@@ -77,6 +77,7 @@ CHECKPOINT_MODELS=(
     #+"https://civitai.com/api/download/models/1015877?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Illustrious-XL SmoothFT Solid,++
     #+"https://civitai.com/api/download/models/1061268?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # NTR Illustrious-Noob ++++
     #+"https://civitai.com/api/download/models/1522490?type=Model&format=SafeTensor&size=pruned&fp=bf16&token=${TOKEN}" # Unholy Desire v3
+    "https://civitai.com/api/download/models/1577892?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Unholy Desire Mix - Sinister Aesthetic v4
     #"https://civitai.com/api/download/models/1151981?type=Model&format=SafeTensor&size=pruned&fp=bf16&token=${TOKEN}" # T-illunai3 
     ###"https://civitai.com/api/download/models/1487987?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # SilvermoonMix-Illustrious-Evolved v2.0
     ###"https://civitai.com/api/download/models/1494740?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Obsession v1.1
