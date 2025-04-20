@@ -77,7 +77,7 @@ CHECKPOINT_MODELS=(
     #+"https://civitai.com/api/download/models/1015877?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Illustrious-XL SmoothFT Solid,++
     #+"https://civitai.com/api/download/models/1061268?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # NTR Illustrious-Noob ++++
     #+"https://civitai.com/api/download/models/1522490?type=Model&format=SafeTensor&size=pruned&fp=bf16&token=${TOKEN}" # Unholy Desire v3
-    "https://civitai.com/api/download/models/1577892?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Unholy Desire Mix - Sinister Aesthetic v4
+    #R "https://civitai.com/api/download/models/1577892?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Unholy Desire Mix - Sinister Aesthetic v4
     #"https://civitai.com/api/download/models/1151981?type=Model&format=SafeTensor&size=pruned&fp=bf16&token=${TOKEN}" # T-illunai3 
     ###"https://civitai.com/api/download/models/1487987?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # SilvermoonMix-Illustrious-Evolved v2.0
     ###"https://civitai.com/api/download/models/1494740?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Obsession v1.1
@@ -134,9 +134,9 @@ CHECKPOINT_MODELS=(
     ##"https://civitai.com/api/download/models/1030766?type=Model&format=SafeTensor&size=pruned&fp=fp8&token=${TOKEN}" # The Araminta Experiment (SDXL+Flux) Fv2
     #"https://civitai.com/api/download/models/624942?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # The Araminta Experiment (SDXL+Flux) Cv6 SFW
     ###"https://civitai.com/api/download/models/991916?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # bigASP V2.0  - messy unclear
-    "https://civitai.com/api/download/models/1556348?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # PhotoArt v5 Great
-    "https://civitai.com/api/download/models/1308957?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # PMaster ProSDXLV3 
-    "https://civitai.com/api/download/models/1517097?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}"# RedCraft Relust3Relustion  
+    #R "https://civitai.com/api/download/models/1556348?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # PhotoArt v5 Great
+    #R "https://civitai.com/api/download/models/1308957?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # PMaster ProSDXLV3 
+    #R "https://civitai.com/api/download/models/1517097?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}"# RedCraft Relust3Relustion  
     #"https://civitai.com/api/download/models/1461059?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Realistic Freedom Omega, ok
     #++"https://civitai.com/api/download/models/1584286?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # chirps v1 Great 
     #--"https://civitai.com/api/download/models/1605744?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # fennfoto_XL v1 
