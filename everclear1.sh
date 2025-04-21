@@ -278,6 +278,7 @@ WILDCARDS=(
     "facetype.txt"
     "fototype.txt"
     "improver.txt"
+    "inspired.txt"
     "name.txt"
     "national.txt"
     "object_pose.txt"
