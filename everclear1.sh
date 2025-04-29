@@ -42,6 +42,11 @@ EXTENSIONS=(
     #"https://github.com/hnmr293/sd-webui-llul" # local latent upscale
     #_"https://github.com/Extraltodeus/test_my_prompt" # iterates leave one word out 
     #-"https://github.com/THUDM/ImageReward" # ImageReward Scorer
+    ### 
+    "https://github.com/guoyww/AnimateDiff.git"
+    "https://github.com/deforum-art/sd-webui-deforum.git"
+    "https://github.com/xzitlou/Text2Video.git"
+    "https://github.com/CiaraStrawberry/TemporalKit.git"
 )
 
 # has to be api/download, and models/<modelVersionId> !
