@@ -190,6 +190,7 @@ LORA_MODELS=(
     #-"https://civitai.com/api/download/models/436219?token=${TOKEN}" # IncaseStyle
     #-"https://civitai.com/api/download/models/416689?token=${TOKEN}" # uncensoredPonyXL
     "https://civitai.com/api/download/models/448977?token=${TOKEN}" # ageSliderPonyXL
+    "https://civitai.com/api/download/models/1639580?type=Model&format=SafeTensor&token=${TOKEN}" Age slide Illustrious
     ## SDXL
     "https://civitai.com/api/download/models/471794?token=${TOKEN}" # "perfect hand"
     ##"https://civitai.com/api/download/models/288407?token=${TOKEN}" # bodyWriting
