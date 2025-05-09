@@ -1,77 +1,20 @@
-walking
-jumping
-standing
-sitting
-running
-watson cross
-on side
-crossed legs
-straddling
-contrapposto
-lotus position
-crossed arms
-outstretched leg
-knees apart feet together
-outstretched arms
-knees up
-upright straddle
-hugging own legs
-outstretched arm
-bent back
-arm behind head
-arm at side
-seiza
-wariza
-yokozuwari
-twisted torso
-figure four sitting
-stretching
-butterfly sitting
-knees to chest
-lying
-arched back 
-spread arms
-fetal position
-squatting
-stroking own chin
-balancing
-tiptoes
-crossed legs
-v arms
-kneeling
-outstretched hand
-arm support
-pigeon-toed
-standing on one leg
-on stomach
-arm up
-knee up
-sway back
-arms behind head
-crawling
-folded
-flexing
-leg up
-reclining
-knees together feet apart
-arms behind back
-crossed ankles
-head tilt
-slouching
-sway back
-t-pose
-w arms
-balancing
-arms at sides
-leaning back
-hugging own legs
-arm behind back
-on back
-legs up
-a-pose
-cowering
-thigh straddling
-plantar flexion
-leaning forward
-airplane arms
-crossed legs
+    Slumped shoulders, head hanging low, with eyes cast downward in a defeated gaze.
+    Knees bent and trembling, unable to support the weight of the body.
+    Arms crossed tightly over the chest, as if trying to shield oneself from further harm.
+    Hands hanging limply at the sides, fingers curled in a weak, defeated grip.
+    Hunched back, with the spine curved forward in a position of defeat.
+    Leaning against a wall or surface for support, unable to stand on one's own.
+    Feet shuffling slowly, lacking the energy or will to move forward.
+    Clenched jaw and furrowed brow, expressing internal anguish and defeat.
+    Breathing heavily, with shallow, labored breaths indicative of defeat.
+    Sinking to the ground, resting on knees or sitting in a defeated stance.
+    Head bowed in shame, unable to meet the gaze of others.
+    Shoulders slouched forward, emphasizing a physical embodiment of defeat.
+    Hands held up in surrender, palms facing outward in a gesture of defeat.
+    Sliding against a wall or surface, sliding downward in a posture of resignation.
+    Rocking back and forth in a seated position, a physical manifestation of defeat.
+    Eyes glazed over, staring into oblivion in a state of defeat.
+    Wrapping arms around oneself, seeking comfort in a defeated embrace.
+    Collapsing to the ground, body sprawled out in a posture of ultimate defeat.
+    Sighing heavily, with shoulders slumping further in a defeated slump.
+    Curling up into a fetal position, seeking solace in a posture of complete defeat.
