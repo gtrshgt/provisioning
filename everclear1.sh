@@ -142,8 +142,10 @@ CHECKPOINT_MODELS=(
     ##"https://civitai.com/api/download/models/1030766?type=Model&format=SafeTensor&size=pruned&fp=fp8&token=${TOKEN}" # The Araminta Experiment (SDXL+Flux) Fv2
     #"https://civitai.com/api/download/models/624942?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # The Araminta Experiment (SDXL+Flux) Cv6 SFW
     ###"https://civitai.com/api/download/models/991916?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # bigASP V2.0  - messy unclear
-    "https://civitai.com/api/download/models/1556348?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # PhotoArt v5 Great
-    "https://civitai.com/api/download/models/1717839?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # GonzaLomo DMD v1.1Real
+    #++"https://civitai.com/api/download/models/1556348?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # PhotoArt v5 Great
+    #"https://civitai.com/api/download/models/1717839?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # GonzaLomo DMD v1.1Real
+    "https://civitai.com/api/download/models/1726284?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" #  GonzaLomo DMD v1.1 SemiReal
+    "https://civitai.com/api/download/models/1757358?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # GonzaLomo DMD v2.0 Unity 
     ##"https://civitai.com/api/download/models/1308957?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # PMaster ProSDXLV3 
     ##"https://civitai.com/api/download/models/1517097?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}"# RedCraft Relust3Relustion  
     #"https://civitai.com/api/download/models/1461059?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Realistic Freedom Omega, ok
