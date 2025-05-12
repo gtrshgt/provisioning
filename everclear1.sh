@@ -64,6 +64,7 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/511677?token=${TOKEN}" # Everclear V3
     #++"https://civitai.com/api/download/models/720342?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Everclear V4
     #"https://civitai.com/api/download/models/1077585?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Big Love PonyV2
+    "https://civitai.com/api/download/models/1767402?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # WAI-ANI-NSFW-PONYXL v14
     #"https://civitai.com/api/download/models/1183765?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # WAI-NSFW-illustrious-SDXL , v8
     #"https://civitai.com/api/download/models/1404987?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # WAI-FXXK_ILL-XL
     #"https://civitai.com/api/download/models/931577?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Anime,WAI-ANI-NSFW-PONYXL
@@ -85,7 +86,7 @@ CHECKPOINT_MODELS=(
     #+"https://civitai.com/api/download/models/1577892?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Unholy Desire Mix - Sinister Aesthetic v4
     #+"https://civitai.com/api/download/models/1617798?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Hassaku XL (Illustrious) v2.1fix
     "https://civitai.com/api/download/models/1648417?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Dvine v5 
-    "https://civitai.com/api/download/models/1752814?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Kitten Tower v1.0 eps-pred 
+    #+"https://civitai.com/api/download/models/1752814?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Kitten Tower v1.0 eps-pred 
     #"https://civitai.com/api/download/models/1151981?type=Model&format=SafeTensor&size=pruned&fp=bf16&token=${TOKEN}" # T-illunai3 
     ###"https://civitai.com/api/download/models/1487987?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # SilvermoonMix-Illustrious-Evolved v2.0
     ###"https://civitai.com/api/download/models/1494740?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Obsession v1.1
