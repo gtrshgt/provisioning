@@ -293,6 +293,7 @@ WILDCARDS=(
     "fototype.txt"
     "improver.txt"
     "inspired.txt"
+    "mask.txt"
     "name.txt"
     "national.txt"
     "object_pose.txt"
