@@ -129,7 +129,7 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/324958?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Pyro's NSFW SDXL
     #"https://civitai.com/api/download/models/887555?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # NatViS: Natural Vision V2
     #"https://civitai.com/api/download/models/929239?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Big Lust v1.5,
-    #++"https://civitai.com/api/download/models/1081768?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Big Lust v1.6 Great
+    "https://civitai.com/api/download/models/1081768?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Big Lust v1.6 Great
     #"https://civitai.com/api/download/models/1620724?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Big Lust v1.7, 1.6 is better
     #"https://civitai.com/api/download/models/1550582?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # LustiMix rebirth
     #++"https://civitai.com/api/download/models/1541389?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # Bond alpha Great
@@ -144,7 +144,7 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/624942?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # The Araminta Experiment (SDXL+Flux) Cv6 SFW
     ###"https://civitai.com/api/download/models/991916?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # bigASP V2.0  - messy unclear
     "https://civitai.com/api/download/models/1556348?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # PhotoArt v5 Great
-    #"https://civitai.com/api/download/models/1717839?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # GonzaLomo DMD v1.1Real
+    "https://civitai.com/api/download/models/1717839?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # GonzaLomo DMD v1.1Real
     #++"https://civitai.com/api/download/models/1726284?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" #  GonzaLomo DMD v1.1 SemiReal
     #++"https://civitai.com/api/download/models/1757358?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # GonzaLomo DMD v2.0 Unity 
     ##"https://civitai.com/api/download/models/1308957?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # PMaster ProSDXLV3 
