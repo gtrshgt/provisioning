@@ -57,7 +57,7 @@ CHECKPOINT_MODELS=(
     #+"https://civitai.com/api/download/models/1087831?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # GoR_PONY_v4photo+VAE!b
     #"https://civitai.com/api/download/models/1410250?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # GoR_v6ILXL+VAE
     #"https://civitai.com/api/download/models/638137?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # GODDESS of Realism Pony_v1.0
-    "https://civitai.com/api/download/models/1755892?type=Model&format=SafeTensor&size=pruned&fp=fp8&token=${TOKEN}" # Fucktastic Real v4
+    #-"https://civitai.com/api/download/models/1755892?type=Model&format=SafeTensor&size=pruned&fp=fp8&token=${TOKEN}" # Fucktastic Real v4
     #-"https://civitai.com/api/download/models/578496?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # 2DN-Pony
     #"https://civitai.com/api/download/models/534642?token=${TOKEN}" # PonyRealism v2.1 VAE
     #"https://civitai.com/api/download/models/914390?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # PonyRealism v2.2, non compatible sampler
@@ -67,6 +67,7 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/1077585?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Big Love PonyV2
     #+++"https://civitai.com/api/download/models/1767402?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # WAI-ANI-NSFW-PONYXL v14
     #"https://civitai.com/api/download/models/1183765?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # WAI-NSFW-illustrious-SDXL , v8
+    "https://civitai.com/api/download/models/1761560?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" WAI-NSFW-illustrious-SDXL, v14 
     #"https://civitai.com/api/download/models/1404987?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # WAI-FXXK_ILL-XL
     #"https://civitai.com/api/download/models/931577?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Anime,WAI-ANI-NSFW-PONYXL
     #"https://civitai.com/api/download/models/966009?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # WAI-REAL_CN v13
