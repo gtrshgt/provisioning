@@ -291,6 +291,7 @@ WILDCARDS=(
     "basescene.txt"
     "body.txt"
     "breasts.txt"
+    "cloths.txt"
     "dantags.txt"
     "expression.txt"
     "expression_1.txt"
