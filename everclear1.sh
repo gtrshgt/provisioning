@@ -67,7 +67,7 @@ CHECKPOINT_MODELS=(
     #"https://civitai.com/api/download/models/1077585?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Big Love PonyV2
     #+++"https://civitai.com/api/download/models/1767402?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # WAI-ANI-NSFW-PONYXL v14
     #"https://civitai.com/api/download/models/1183765?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # WAI-NSFW-illustrious-SDXL , v8
-    "https://civitai.com/api/download/models/1761560?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" WAI-NSFW-illustrious-SDXL, v14 
+    #++"https://civitai.com/api/download/models/1761560?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" WAI-NSFW-illustrious-SDXL, v14 
     #"https://civitai.com/api/download/models/1404987?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # WAI-FXXK_ILL-XL
     #"https://civitai.com/api/download/models/931577?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Anime,WAI-ANI-NSFW-PONYXL
     #"https://civitai.com/api/download/models/966009?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # WAI-REAL_CN v13
@@ -121,6 +121,7 @@ CHECKPOINT_MODELS=(
     #
     ###"https://civitai.com/api/download/models/471120?token=${TOKEN}" # Juggernaut XL RunDiffiusionHyper, epiCRealism is better
     #"https://civitai.com/api/download/models/293240?type=Model&format=SafeTensor&size=pruned&fp=fp16?token=${TOKEN}" # Realism Engine SDXL
+    "https://civitai.com/api/download/models/175954?type=Model&format=SafeTensor&size=full&fp=bf16?token=${TOKEN}"# LomoXL 
     #"https://civitai.com/api/download/models/541882?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Copax TimeLessXL, Nice sets w cloths, no pussy at all
     #"https://civitai.com/api/download/models/646523?token=${TOKEN}" # epiCRealism XL Kiss , Perfect texture 
     #"https://civitai.com/api/download/models/303498?token=${TOKEN}" # softfantasy_realmagic YES
