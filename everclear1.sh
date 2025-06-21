@@ -122,6 +122,7 @@ CHECKPOINT_MODELS=(
     ###"https://civitai.com/api/download/models/471120?token=${TOKEN}" # Juggernaut XL RunDiffiusionHyper, epiCRealism is better
     #"https://civitai.com/api/download/models/293240?type=Model&format=SafeTensor&size=pruned&fp=fp16?token=${TOKEN}" # Realism Engine SDXL
     "https://civitai.com/api/download/models/175954?type=Model&format=SafeTensor&size=full&fp=bf16?token=${TOKEN}"# LomoXL 
+    "https://civitai.com/api/download/models/908683?type=Model&format=SafeTensor&size=pruned&fp=fp16?token=${TOKEN}" # Gonzales_Ponyhof2
     #"https://civitai.com/api/download/models/541882?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Copax TimeLessXL, Nice sets w cloths, no pussy at all
     #"https://civitai.com/api/download/models/646523?token=${TOKEN}" # epiCRealism XL Kiss , Perfect texture 
     #"https://civitai.com/api/download/models/303498?token=${TOKEN}" # softfantasy_realmagic YES
