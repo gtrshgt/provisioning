@@ -319,6 +319,7 @@ WILDCARDS=(
     "positions.txt"
     "gesture.txt"
     "pose.txt"
+    "pose_solo.txt"
     "lighting.txt"
     "bsecenes.txt"
     "tropical_island_scenes.txt"
