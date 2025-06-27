@@ -121,8 +121,8 @@ CHECKPOINT_MODELS=(
     #
     ###"https://civitai.com/api/download/models/471120?token=${TOKEN}" # Juggernaut XL RunDiffiusionHyper, epiCRealism is better
     #"https://civitai.com/api/download/models/293240?type=Model&format=SafeTensor&size=pruned&fp=fp16?token=${TOKEN}" # Realism Engine SDXL
-    "https://civitai.com/api/download/models/175954?type=Model&format=SafeTensor&size=full&fp=bf16?token=${TOKEN}"# LomoXL 
-    "https://civitai.com/api/download/models/908683?type=Model&format=SafeTensor&size=pruned&fp=fp16?token=${TOKEN}" # Gonzales_Ponyhof2
+    "https://civitai.com/api/download/models/175954?type=Model&format=SafeTensor&size=full&fp=bf16&token=${TOKEN}"# LomoXL 
+    "https://civitai.com/api/download/models/908683?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Gonzales_Ponyhof2
     #"https://civitai.com/api/download/models/541882?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # Copax TimeLessXL, Nice sets w cloths, no pussy at all
     #"https://civitai.com/api/download/models/646523?token=${TOKEN}" # epiCRealism XL Kiss , Perfect texture 
     #"https://civitai.com/api/download/models/303498?token=${TOKEN}" # softfantasy_realmagic YES
@@ -151,8 +151,9 @@ CHECKPOINT_MODELS=(
     ###"https://civitai.com/api/download/models/991916?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # bigASP V2.0  - messy unclear
     #"https://civitai.com/api/download/models/1556348?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # PhotoArt v5 Great
     #++"https://civitai.com/api/download/models/1787120?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # PhotoArt v6
-    "https://civitai.com/api/download/models/1717839?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # GonzaLomo DMD v1.1Real
-    "https://civitai.com/api/download/models/1861710?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # GonzaLomo v3.0 UnityXL DMD
+    #++"https://civitai.com/api/download/models/1717839?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # GonzaLomo DMD v1.1Real
+    #++"https://civitai.com/api/download/models/1861710?type=Model&format=SafeTensor&size=full&fp=fp16&token=${TOKEN}" # GonzaLomo v3.0 UnityXL DMD
+    "https://civitai.com/api/download/models/1943922?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # GonzaLomo v4.0 UnityXL DMD
     #++"https://civitai.com/api/download/models/1726284?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" #  GonzaLomo DMD v1.1 SemiReal
     #++"https://civitai.com/api/download/models/1757358?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # GonzaLomo DMD v2.0 Unity 
     ##"https://civitai.com/api/download/models/1308957?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=${TOKEN}" # PMaster ProSDXLV3 
