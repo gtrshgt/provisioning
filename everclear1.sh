@@ -221,6 +221,7 @@ LORA_MODELS=(
     #-"https://civitai.com/api/download/models/244808?type=Model&format=SafeTensor&token=${TOKEN}" # AllDisneyPrincessXL
     "https://civitai.com/api/download/models/394127?token=${TOKEN}" # realCumXL
     "https://civitai.com/api/download/models/244808?type=Model&format=SafeTensor&token=${TOKEN}" # All Disney Princess XL
+    "https://civitai.com/api/download/models/1920459?type=Model&format=SafeTensor&token=${TOKEN}" # PossumMachine Style, illustrious
     "https://civitai.com/api/download/models/1858609?type=Model&format=SafeTensor&token=${TOKEN}" # assSlider
     "https://civitai.com/api/download/models/1785482?type=Model&format=SafeTensor&token=${TOKEN}" # clitoral hood,erect clitoris,cleft of venus,anal slit,
     "https://civitai.com/api/download/models/1693313?type=Model&format=SafeTensor&token=${TOKEN}" # lying add, tribadism
