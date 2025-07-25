@@ -24,12 +24,12 @@ EXTENSIONS=(
     #+"https://github.com/Coyote-A/ultimate-upscale-for-automatic1111"
     #"https://github.com/fkunn1326/openpose-editor"
     #"https://github.com/hnmr293/posex"
-    #"https://github.com/d8ahazard/sd_dreambooth_extension"
+    "https://github.com/d8ahazard/sd_dreambooth_extension"
     #"https://github.com/deforum-art/sd-webui-deforum"
-    "https://github.com/adieyal/sd-dynamic-prompts"
+    #+"https://github.com/adieyal/sd-dynamic-prompts"
     #"https://github.com/ototadana/sd-face-editor"
     "https://github.com/AlUlkesh/stable-diffusion-webui-images-browser"
-    "https://github.com/AIrjen/OneButtonPrompt"
+    #+"https://github.com/AIrjen/OneButtonPrompt"
     #"https://github.com/zanllp/sd-webui-infinite-image-browsing"
     #"https://github.com/hako-mikan/sd-webui-regional-prompter"
     #"https://github.com/Gourieff/sd-webui-reactor"
@@ -43,10 +43,10 @@ EXTENSIONS=(
     #_"https://github.com/Extraltodeus/test_my_prompt" # iterates leave one word out 
     #-"https://github.com/THUDM/ImageReward" # ImageReward Scorer
     ### 
-    "https://github.com/guoyww/AnimateDiff.git"
-    "https://github.com/deforum-art/sd-webui-deforum.git"
-    "https://github.com/xzitlou/Text2Video.git"
-    "https://github.com/CiaraStrawberry/TemporalKit.git"
+    #+"https://github.com/guoyww/AnimateDiff.git"
+    #+"https://github.com/deforum-art/sd-webui-deforum.git"
+    #+"https://github.com/xzitlou/Text2Video.git"
+    #+"https://github.com/CiaraStrawberry/TemporalKit.git"
 )
 
 # has to be api/download, and models/<modelVersionId> !
